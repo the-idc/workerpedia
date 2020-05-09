@@ -5,6 +5,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 from pathlib import Path
 import os
 import json
+import re
 
 output_path = Path("content/claims/")
 
@@ -30,7 +31,8 @@ records = claimsheet.get_all_records()
 for row in records:
   if row.get("Approved") == "yes":
     # Open a new file with filename based on the first column
-    filename = row.get("Claim").lower().replace(" ", "-") + '.md'
+    filename = row.get("Claim").lower().replace(" ", "-")
+    filename = re.sub(r'[^a-z0-9-]',"", filename) + '.md'
     outputfile = output_path / filename
     new_yaml = open(outputfile, 'w')
 
