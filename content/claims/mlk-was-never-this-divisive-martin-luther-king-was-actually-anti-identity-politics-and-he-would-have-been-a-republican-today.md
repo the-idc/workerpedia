@@ -1,6 +1,7 @@
 ---
 title: "MLK was never this divisive. Martin Luther King was actually anti-identity politics, and he would have been a Republican today."
 draft: false
+tags: [martin, mlk]
 ---
 
 MLK was literally murdered for his politics. [He was also critical of the capitalist system starting in his 20s](http://inthesetimes.com/article/20839/martin-luther-king-jr-day-socialism-capitalism), so he would not be a Republican today.  

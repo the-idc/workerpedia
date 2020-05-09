@@ -1,6 +1,7 @@
 ---
 title: "Slavery was a long time ago; it's time for Black people to get over it already. Stop holding on to the past."
 draft: false
+tags: [slavery, time ago, the past]
 ---
 
 **First of all, the year is 2020 and "slavery" is still ongoing.**  

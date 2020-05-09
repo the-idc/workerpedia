@@ -1,6 +1,7 @@
 ---
 title: "Blacks are great, but they only have themselves and their culture to blame when they get shot by cops. I support Black rights, but when they have songs about killing cops, don't blame them when they shoot back."
 draft: false
+tags: [culture, rap]
 ---
 
 Policing was anti-Black long before rap music was invented.  

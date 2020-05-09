@@ -1,6 +1,7 @@
 ---
 title: "White people have done good and bad things; focus on the good."
 draft: false
+tags: [good and bad, focus on]
 ---
 
 The "bad" (all across the board and for all peoples) has long-term institutional consequences that need to be addressed; only focusing on the "good" won't help those issues get solved.  

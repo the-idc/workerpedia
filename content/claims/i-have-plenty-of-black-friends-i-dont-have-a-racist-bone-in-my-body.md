@@ -1,6 +1,7 @@
 ---
 title: "I have plenty of black friends; I don't have a racist bone in my body."
 draft: false
+tags: [black friend, friends]
 ---
 
 Racism is not as simple as "hating all black people."  

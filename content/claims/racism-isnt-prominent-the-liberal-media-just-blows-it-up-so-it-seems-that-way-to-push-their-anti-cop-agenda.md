@@ -1,6 +1,7 @@
 ---
 title: "Racism isn't prominent; the Liberal media just blows it up so it seems that way to push their anti-cop agenda."
 draft: false
+tags: [racism, liberal, media]
 ---
 
 You already know what we're gonna say about the racism thing (come on, we all have social media and smartphones, so if you want to see racism in action today, just head on over to YouTube or Twitter and do a simple search), but let's address the Liberal media thing, because we don't really like Liberal or Conservative media very much (and that's putting it lightly).  

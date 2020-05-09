@@ -1,6 +1,7 @@
 ---
 title: "The Confederate flag is just Southern pride; it's our heritage. We're not racist."
 draft: false
+tags: [confederate, flag]
 ---
 
 [This is not the flag of the Confederacy.  

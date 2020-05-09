@@ -1,6 +1,7 @@
 ---
 title: "The Irish were slaves too."
 draft: false
+tags: [irish]
 ---
 
 Were the Irish ever slaves (period)?  

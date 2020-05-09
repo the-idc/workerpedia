@@ -1,6 +1,7 @@
 ---
 title: "Racism is just a thing that exists, like potholes. You have to understand that you can't get rid of it. It's natural to fear the other, and people organize along racial lines for this reason."
 draft: false
+tags: [racism, natural, prejudice]
 ---
 
 Do you recommend we just live with potholes, or should we fix them?  

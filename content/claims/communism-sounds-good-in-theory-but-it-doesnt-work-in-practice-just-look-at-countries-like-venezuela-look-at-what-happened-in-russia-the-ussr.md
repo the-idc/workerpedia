@@ -1,6 +1,7 @@
 ---
 title: "Communism sounds good in theory, but it doesn't work in practice. Just look at countries like Venezuela. Look at what happened in Russia (the USSR)."
 draft: false
+tags: [communism, communist, socialism, socialist]
 ---
 
 It is important to differentiate between a socialist/communist society, and a "socialist/communist" state (the latter does not exist beyond a mere label, which doesn't mean much).  

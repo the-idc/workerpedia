@@ -1,6 +1,7 @@
 ---
 title: "They're trying to erase white history!"
 draft: false
+tags: [erase, white, history]
 ---
 
 Not only is there not any real unitary "white" history, but there is something to be said here about the utility of history (as a subject in schools, for example).  

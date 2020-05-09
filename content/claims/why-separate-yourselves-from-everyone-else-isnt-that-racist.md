@@ -1,6 +1,7 @@
 ---
 title: "Why separate yourselves from everyone else? Isn't that racist?"
 draft: false
+tags: [reverse racism, racist, separate]
 ---
 
 We can not just advocate for ending Capitalist oppression, but we can also put specific ways in which the Black community is oppressed in the spotlight, while advocating for equality.  

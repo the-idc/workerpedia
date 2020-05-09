@@ -1,6 +1,7 @@
 ---
 title: "There is scientific evidence that backs the fact that black people are just less intelligent than other races; that's just how it is."
 draft: false
+tags: [less intelligent]
 ---
 
 [Black people (in the racial sense) aren't inherently less intelligent than other races, and to posit otherwise would be entirely unscientific, because there is no scientific basis for such a claim](https://www.cell.com/ajhg/pdf/S0002-9297(18)30363-X.pdf). Black people, just like all other people, are shaped largely by their environments.  

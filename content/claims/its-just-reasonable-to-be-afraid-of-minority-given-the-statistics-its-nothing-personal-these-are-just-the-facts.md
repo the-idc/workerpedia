@@ -1,6 +1,7 @@
 ---
 title: "It's just reasonable to be afraid of <<minority>> given the statistics. It's nothing personal; these are just the facts."
 draft: false
+tags: [afraid, statistics, genetic]
 ---
 
 By fearing (and thereby shunning) members of a minority group and discriminating against them in your day-to-day interactions, you help contribute to those very "statistics" that you loosely reference, which exist not because of some genetic predisposition to crime, but because certain groups face heavy, systemic discrimination.  

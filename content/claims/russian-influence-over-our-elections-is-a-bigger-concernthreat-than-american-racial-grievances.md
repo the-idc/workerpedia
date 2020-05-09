@@ -1,6 +1,7 @@
 ---
 title: "Russian influence over our elections is a bigger concern/threat than American racial grievances."
 draft: false
+tags: [russia, russian]
 ---
 
 What a, dare we say... privileged position to take.  

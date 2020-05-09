@@ -1,6 +1,7 @@
 ---
 title: "If you want to live in America speak English."
 draft: false
+tags: [english, speak english, in america]
 ---
 
 If your ancestors wanted to live in America, maybe they should have learned some Indigenous/Native American languages (as well as some other things).  

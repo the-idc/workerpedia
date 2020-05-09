@@ -1,6 +1,7 @@
 ---
 title: "Your aggressive protesting is causing right-wing violence."
 draft: false
+tags: [protest, protesting, protesters, causing]
 ---
 
 Who are you referring to specifically?  

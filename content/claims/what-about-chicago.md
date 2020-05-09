@@ -1,6 +1,7 @@
 ---
 title: "What about Chicago?"
 draft: false
+tags: [chicago]
 ---
 
 Ahhh, the classic reference to Black Chicago violence...  

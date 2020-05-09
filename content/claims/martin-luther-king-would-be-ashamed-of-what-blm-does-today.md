@@ -1,6 +1,7 @@
 ---
 title: "Martin Luther King would be ashamed of what BLM does today."
 draft: false
+tags: [martin, mlk]
 ---
 
 MLK would most likely be proud of BLM for spotlighting police brutality and putting discussions about systemic racism at the forefront of our national sociopolitical dialogue.  

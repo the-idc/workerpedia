@@ -1,7 +1,10 @@
 baseURL = "https://idc-snoe.github.io/idc-answers/"
 languageCode = "en-us"
-title = "Left Answers"
+title = "Leftpedia"
 theme = "learn"
 publishdir = "docs"
 [params]
 disableAssetsBusting = true
+themeVariant = "red"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]

@@ -1,6 +1,7 @@
 ---
 title: "Why is Africa still so undeveloped after decades of aid from both governments and private charities? What's the matter with them?"
 draft: false
+tags: [Africa, aid, charity, charities]
 ---
 
 Certainly you aren't trying to imply that there is something inherent about black people that makes them predisposed to failure.  

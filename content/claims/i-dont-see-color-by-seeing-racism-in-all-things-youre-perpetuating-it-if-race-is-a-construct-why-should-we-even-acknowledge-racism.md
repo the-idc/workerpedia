@@ -1,6 +1,7 @@
 ---
 title: "I don't see color. By seeing racism in all things, you're perpetuating it. If race is a construct why should we even acknowledge racism?"
 draft: false
+tags: [racist, racism, race, see color]
 ---
 
 Recognizing race as a social construct does not make race less "real."  

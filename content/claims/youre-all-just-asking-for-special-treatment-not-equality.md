@@ -1,6 +1,7 @@
 ---
 title: "You're all just asking for special treatment, not equality!"
 draft: false
+tags: [equality]
 ---
 
 Hmmm... interesting.  

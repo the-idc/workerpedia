@@ -1,6 +1,7 @@
 ---
 title: "I never did anything to anyone. I'm not responsible for what my ancestors did. I shouldn't have to pay for America's racist history. You shouldn't have to pay for the crimes of ancestors you never met."
 draft: false
+tags: [past, history, ancestors]
 ---
 
 You didn't cross the Delaware river either.  

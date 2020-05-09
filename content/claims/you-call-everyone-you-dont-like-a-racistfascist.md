@@ -1,6 +1,7 @@
 ---
 title: "You call everyone you don't like a racist/fascist."
 draft: false
+tags: [racist, racism, fascist, fascism]
 ---
 
 Technically, it is correct that anyone who doesn't defend marginalized people who look physically different than them, even when choosing to be neutral, is a racist in some way.  

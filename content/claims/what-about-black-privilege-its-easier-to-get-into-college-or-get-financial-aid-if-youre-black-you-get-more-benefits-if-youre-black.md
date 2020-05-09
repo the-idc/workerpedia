@@ -1,6 +1,7 @@
 ---
 title: "What about Black privilege? It's easier to get into college or get financial aid if you're Black. You get more benefits if you're Black."
 draft: false
+tags: [black privelege, college, benefits]
 ---
 
 [Yet despite an increase in enrollment, Black Americans are still lagging behind in college population.](https://nces.ed.gov/programs/coe/pdf/coe_cpb.pdf)  

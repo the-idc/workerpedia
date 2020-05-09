@@ -1,6 +1,7 @@
 ---
 title: "More white people get killed by the police than Black people!"
 draft: false
+tags: [white, police, killed]
 ---
 
 Because white people make up a bigger part of the U.S. population; there are about three times as many white people in America than there are black people, so obviously they will be the majority of pretty much everything.  

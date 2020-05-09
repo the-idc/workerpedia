@@ -40,8 +40,9 @@ for row in records:
     yaml_text = ""
     yaml_text += "---\n"
     #_yaml_text += "draft: false\n"
-    yaml_text += "title: \"" + row.get("Claim") + "\"\n"
+    yaml_text += "title: \"" + row.get("Claim").replace('"', '\\"') + "\"\n"
     yaml_text += "draft: false\n"
+    yaml_text += "tags: [" + row.get("Keywords") + "]\n"
 
     # Set the Page title value.
     #yaml_text += "title: \"Left Answers: " + row.get("Claim") + "\".\n"

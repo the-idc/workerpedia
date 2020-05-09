@@ -1,6 +1,7 @@
 ---
 title: "If we focus on class only, the racial problems will fix themselves."
 draft: false
+tags: [class]
 ---
 
 This ignores some... let's say "questionable" policies by certain "socialist" governments in the past, like the relocation of the Tatars in the USSR, for example.  

@@ -1,6 +1,7 @@
 ---
 title: "Cops have a hard job, and how do they know if some person is unarmed? If someone didn't follow directions, I'd probably shoot them too. You have to listen to cops."
 draft: false
+tags: [cops, police, follow directions]
 ---
 
 [Policing institutions have their roots in slave patrols, so just keep that in mind when you tell Black people that they "have to listen to cops](https://plsonline.eku.edu/insidelook/brief-history-slavery-and-origins-american-policing)."  

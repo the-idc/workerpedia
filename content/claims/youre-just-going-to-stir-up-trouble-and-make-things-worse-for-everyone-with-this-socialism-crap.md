@@ -1,6 +1,7 @@
 ---
 title: "You're just going to stir up trouble and make things worse for everyone with this Socialism crap."
 draft: false
+tags: [trouble, things worse]
 ---
 
 The "trouble" is already here and more "trouble" is coming.  

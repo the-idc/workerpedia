@@ -1,6 +1,7 @@
 ---
 title: "If more Black people worked hard, they wouldn't be where they're at right now; look at all of the other minority groups in this country."
 draft: false
+tags: [work hard, worked hard, work harder, worked harder, model minority]
 ---
 
 If we're not going to delve into the entire failure of Reconstruction to put Black people on anywhere near an equal footing in our society...  

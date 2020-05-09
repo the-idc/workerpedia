@@ -1,6 +1,7 @@
 ---
 title: "Why does everything always have to be about race? Why do people always have to bring race into it?"
 draft: false
+tags: [race, always]
 ---
 
 Because the color of your skin predicts many of the outcomes you will experience in your life.  

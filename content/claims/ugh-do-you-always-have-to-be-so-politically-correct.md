@@ -1,6 +1,7 @@
 ---
 title: "Ugh, do you always have to be so politically correct?"
 draft: false
+tags: [pc, politically correct, correctness]
 ---
 
 Is the "politically correct" take something that you agree with deep down, but are too lazy to actually reflect in your own actions and/or words?  

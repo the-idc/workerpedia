@@ -1,6 +1,7 @@
 ---
 title: "Men can't really be feminists."
 draft: false
+tags: [feminists, feminism]
 ---
 
 Men have plenty to benefit from feminism.  

@@ -1,6 +1,7 @@
 ---
 title: "It's this welfare system that's hurting Blacks. We need to stop enabling them."
 draft: false
+tags: [welfare, enabling, handouts]
 ---
 
 Not all Black Americans are on welfare, so let's try not to generalize here.  

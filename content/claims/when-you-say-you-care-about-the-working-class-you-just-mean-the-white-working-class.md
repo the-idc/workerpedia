@@ -1,6 +1,7 @@
 ---
 title: "When you say you care about the working class, you just mean the white working class."
 draft: false
+tags: [working class, working-class]
 ---
 
 Assuming this is a Liberal talking point directed toward white Leftists, maybe we should clarify some things...  

@@ -1,6 +1,7 @@
 ---
 title: "I'm a realist. What you're doing is utopian."
 draft: false
+tags: [utopia, utopian, realist, realistic]
 ---
 
 [We strongly disagree](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch02.htm), but if what we are aiming to accomplish is merely "utopian" in your eyes (it's not in ours), that means you can at least see the good in it.  

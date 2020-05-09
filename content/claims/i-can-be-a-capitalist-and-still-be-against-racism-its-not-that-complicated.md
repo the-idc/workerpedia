@@ -1,6 +1,7 @@
 ---
 title: "I can be a Capitalist and still be against racism; it's not that complicated."
 draft: false
+tags: [capitalist, capitalism]
 ---
 
 If you are against racism, you should look into how colonialists created "race," and how Capitalists utilize "race" so that workers go against their own interests and profits can be maximized.  

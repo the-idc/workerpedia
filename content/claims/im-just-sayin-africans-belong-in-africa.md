@@ -1,6 +1,7 @@
 ---
 title: "I'm just sayin': Africans belong in Africa."
 draft: false
+tags: [Africa]
 ---
 
 And European settlers "belonged" in Europe by your logic. But guess what?  

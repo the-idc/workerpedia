@@ -1,6 +1,7 @@
 ---
 title: "The Nazis were Socialists."
 draft: false
+tags: [nazi, nazis]
 ---
 
 Boy, are you gonna be disappointed when you realize that Dairy Queen isn't actually a literal queen, or that the Philadelphia Flyers can't actually fly.  

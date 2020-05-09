@@ -1,6 +1,7 @@
 ---
 title: "I've never personally done anything to oppress Black people (or any oppressed group)."
 draft: false
+tags: [racist, i'm not racist, personally, racist bone]
 ---
 
 **That's good to hear. Now let's talk about the institutions that oppress Black people and other people of color**.  

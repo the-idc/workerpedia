@@ -1,6 +1,7 @@
 ---
 title: "The moral arc of the universe bends towards justice."
 draft: false
+tags: [arc]
 ---
 
 "Morality" is perceived differently all over the world, and has changed throughout history. But not in any specific direction.  

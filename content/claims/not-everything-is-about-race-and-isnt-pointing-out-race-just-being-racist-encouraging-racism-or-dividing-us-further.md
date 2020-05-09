@@ -1,6 +1,7 @@
 ---
 title: "Not EVERYTHING is about race. And isn't pointing out race just being racist, encouraging racism, or dividing us further?"
 draft: false
+tags: [race, racism, reverse racism, color, blind]
 ---
 
 In an ideal, post-racial world, yes.  

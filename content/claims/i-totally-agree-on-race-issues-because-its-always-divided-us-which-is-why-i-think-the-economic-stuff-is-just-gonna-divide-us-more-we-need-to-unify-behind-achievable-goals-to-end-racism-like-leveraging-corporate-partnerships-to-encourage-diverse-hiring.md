@@ -1,6 +1,7 @@
 ---
 title: "I totally agree on race issues, because it's always divided us, which is why I think the economic stuff is just gonna divide us more. We need to unify behind achievable goals to end racism like leveraging corporate partnerships to encourage diverse hiring!"
 draft: false
+tags: [unify, unity, pragmatic, pragmatism, progressive, achieve, achievable, achieveable, capitalist, capitalism, corporate, corporations]
 ---
 
 You are one step away from understanding the underlying cause of oppression, Capitalism.  

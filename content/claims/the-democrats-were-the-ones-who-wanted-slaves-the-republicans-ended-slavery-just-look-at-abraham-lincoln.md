@@ -1,6 +1,7 @@
 ---
 title: "The Democrats were the ones who wanted slaves. The Republicans ended slavery, just look at Abraham Lincoln!"
 draft: false
+tags: [lincoln, democrats, republicans]
 ---
 
 It is true that the **name** of the slave-owning political party was the Democratic Party. After the Civil War, that party continued its exploitation of the former slaves through the Jim Crow system. The former slave owners made up the southern wing of the Democratic Party. Starting approximately after WWII, the more "liberal" parts of the Democratic Party began to push for social reform, including racial reform. The southern Democrats were absolutely opposed to any reform. As early as 1948, some Democrats began to split off. Strom Thurmond, for example, left the party and became a "Dixiecrat."  

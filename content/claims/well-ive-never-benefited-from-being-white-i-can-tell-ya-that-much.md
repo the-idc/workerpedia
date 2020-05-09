@@ -1,6 +1,7 @@
 ---
 title: "Well, I've never benefited from being white, I can tell ya that much."
 draft: false
+tags: [being white]
 ---
 
 This is a good opportunity to talk about the way that your position in life shapes the way you see things.  

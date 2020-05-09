@@ -1,6 +1,7 @@
 ---
 title: "What happened to free speech? I can't say anything anymore without someone taking offense. PC culture is out of control!"
 draft: false
+tags: [snowflake, free speech, pc, politically correct]
 ---
 
 What happened to free speech in the context of "PC culture" is, at its core, dishonest.  

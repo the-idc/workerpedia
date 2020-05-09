@@ -1,6 +1,7 @@
 ---
 title: "Why do Black people need a special month or holiday? How would you all feel if there was a white history month, huh?"
 draft: false
+tags: [month, black history month, white history month, pride]
 ---
 
 What would a "white" history month celebrate, exactly?  

@@ -1,6 +1,7 @@
 ---
 title: "I don't want my money/taxes subsidizing those lazy welfare folk. I certainly worked hard, so why can't the poor?"
 draft: false
+tags: [welfare, my money, poor]
 ---
 
 Most states require those on welfare to have a job or be job-searching, [and the most effective welfare programs are those which give money to low-income workers](https://www.mdrc.org/publication/how-welfare-and-work-policies-affect-employment-and-income).  

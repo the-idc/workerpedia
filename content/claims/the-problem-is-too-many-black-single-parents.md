@@ -1,6 +1,7 @@
 ---
 title: "The problem is too many Black single parents."
 draft: false
+tags: [parents, fathers]
 ---
 
 Although the prevalence of single parenthood is definitely an issue, it is not **thee** problem.  

@@ -1,6 +1,7 @@
 ---
 title: "Welfare programs destroyed the Black family unit."
 draft: false
+tags: [welfare, black family]
 ---
 
 That's like saying Neosporin and bandages applied to a gigantic arm gash in need of stitches were actually what caused the gash.  

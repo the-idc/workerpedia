@@ -1,6 +1,7 @@
 ---
 title: "What about Black on Black crime?"
 draft: false
+tags: [black on, black-on-black]
 ---
 
 Ahhh, [the great myth](https://www.citylab.com/equity/2015/06/the-origins-of-the-phrase-black-on-black-crime/395507/) of "Black-on-Black crime" is still with us.  

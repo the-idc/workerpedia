@@ -1,6 +1,7 @@
 ---
 title: "Those refugees should fight for their own countries rather than flee and come here. They're cowards and just want job opportunities."
 draft: false
+tags: [immigrants, refugees]
 ---
 
 Most of the refugees you're referencing are probably refugees because of American foreign policy.  

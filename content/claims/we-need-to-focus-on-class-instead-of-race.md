@@ -1,6 +1,7 @@
 ---
 title: "We need to focus on class instead of race."
 draft: false
+tags: [class]
 ---
 
 This is a [false dichotomy](https://en.m.wikipedia.org/wiki/False_dilemma).  

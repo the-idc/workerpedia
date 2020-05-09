@@ -1,6 +1,7 @@
 ---
 title: "All lives matter."
 draft: false
+tags: [all lives matter, lives matter]
 ---
 
 "All lives matter" is a clever trick.  

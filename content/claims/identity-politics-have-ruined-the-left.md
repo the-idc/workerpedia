@@ -1,6 +1,7 @@
 ---
 title: "Identity politics have ruined the Left."
 draft: false
+tags: [identity politics]
 ---
 
 What do you mean when you say "identity politics" exactly?  

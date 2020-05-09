@@ -1,6 +1,7 @@
 ---
 title: "Does it actually really affect you though? Why care so much if it doesn't affect you?"
 draft: false
+tags: [affect me, effect me, affect you, effect you]
 ---
 
 Many of our white comrades would say that our struggles do affect them, and that even if they didn't, they would still care because they have a base level of care for other human beings.  

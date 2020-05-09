@@ -1,6 +1,7 @@
 ---
 title: "I don't see color."
 draft: false
+tags: [see color, blind, color-blind, colorblind]
 ---
 
 If you don't see color, then you don't see the everyday struggles people go through because of color.  

@@ -1,6 +1,7 @@
 ---
 title: "The reason racism is a problem is because people keep looking for ways to be offended"
 draft: false
+tags: [racism, offended, pc, political correctness, politically correct]
 ---
 
 "Ways to be offended" is a common phrase among Conservatives reacting to "Political Correctness." It is an example of how [mainstream media exploits public fear and hatred as a social control mechanism](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.4091&rep=rep1&type=pdf).  

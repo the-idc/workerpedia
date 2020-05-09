@@ -1,6 +1,7 @@
 ---
 title: "The majority of Black people don't care about race; it's just a small minority of opportunists claiming to speak for everyone."
 draft: false
+tags: [care about race]
 ---
 
 What is the source for this claim?  

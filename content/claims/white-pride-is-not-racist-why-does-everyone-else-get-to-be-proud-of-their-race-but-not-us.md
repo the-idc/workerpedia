@@ -1,6 +1,7 @@
 ---
 title: "White pride is NOT racist! Why does everyone else get to be proud of their race, but not us?"
 draft: false
+tags: [white pride]
 ---
 
 "White" isn't a nationality, let alone an ethnic category - it is an extremely broad grouping based strictly upon skin color and other physical features, and a grouping so broad that one is basically saying that they are proud to not be an ethnic minority in saying that they are "proud to be white."  

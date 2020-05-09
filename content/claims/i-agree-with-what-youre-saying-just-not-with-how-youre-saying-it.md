@@ -1,6 +1,7 @@
 ---
 title: "I agree with what you're saying, just not with how you're saying it."
 draft: false
+tags: [tone, with how, methods, practice]
 ---
 
 This is called [tone policing](https://en.wikipedia.org/wiki/Tone_policing).  

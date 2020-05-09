@@ -1,6 +1,7 @@
 ---
 title: "Politics is all about compromise; we need to be able to meet the other side halfway."
 draft: false
+tags: [compromise, aisle, work with]
 ---
 
 Most people agree that compromise is essential in electoral politics and "politics" in general. The failure of politicians to compromise is often attributed to political polarization of our country – that is, for the Right and the Left to come to the middle. However, Gutmann and Thompson argue that there is an internal tension in political compromise in that the democratic process requires politicians both to resist compromise and to embrace it. Specifically, they point to the uncompromising mindset that characterizes campaigning which obstructs the search for desirable compromises:  

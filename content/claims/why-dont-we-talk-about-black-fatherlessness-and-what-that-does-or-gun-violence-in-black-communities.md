@@ -1,6 +1,7 @@
 ---
 title: "Why don't we talk about Black fatherlessness and what that does, or gun violence in Black communities?"
 draft: false
+tags: [parents, fathers]
 ---
 
 Black fatherlessness and gun violence are things that are absolutely talked about within America, but the biggest problem here is with regard to the diagnosis of why these issues are so prevalent and what the solutions are to fix them.  

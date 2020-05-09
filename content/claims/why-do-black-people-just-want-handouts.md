@@ -1,6 +1,7 @@
 ---
 title: "Why do Black people just want handouts?"
 draft: false
+tags: [handouts, welfare]
 ---
 
 Do you know any Black people personally?  

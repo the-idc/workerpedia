@@ -1,6 +1,7 @@
 ---
 title: "Identity politics make everything about race. This is really about class."
 draft: false
+tags: [class, identity]
 ---
 
 Identity politics is not synonymous with race reductionism (reducing everything to race).  

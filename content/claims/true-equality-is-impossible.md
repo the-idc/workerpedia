@@ -1,6 +1,7 @@
 ---
 title: "True equality is impossible"
 draft: false
+tags: [equality, impossible]
 ---
 
 Equality is not "sameness."  

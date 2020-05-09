@@ -1,6 +1,7 @@
 ---
 title: "Leftism is just for comfortable white BernieBros who want a political club. Focusing on class automatically ignores race and gender."
 draft: false
+tags: [bros, berniebros, leftism, class]
 ---
 
 Did systemic racism as we understand it today exist prior to Capitalism (mercantile or otherwise)?  

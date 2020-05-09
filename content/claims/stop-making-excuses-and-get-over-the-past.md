@@ -1,6 +1,7 @@
 ---
 title: "Stop making excuses and get over the past."
 draft: false
+tags: [past, history]
 ---
 
 We slash your car tires.  

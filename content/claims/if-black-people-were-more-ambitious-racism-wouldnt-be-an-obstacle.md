@@ -1,6 +1,7 @@
 ---
 title: "If Black people were more ambitious, racism wouldn't be an obstacle."
 draft: false
+tags: [ambitious, get over]
 ---
 
 Before the recession, two-thirds of Americans surveyed said that the "American Dream" was harder to achieve. After the recession, even more Americans realized that not only was the "dream" unattainable, but that it was a myth.  

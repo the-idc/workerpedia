@@ -1,6 +1,7 @@
 ---
 title: "At what level does it become about personal responsibility?"
 draft: false
+tags: [responsibility]
 ---
 
 Eugene Debs wasn't right about everything, but he was certainly right about a lot.  

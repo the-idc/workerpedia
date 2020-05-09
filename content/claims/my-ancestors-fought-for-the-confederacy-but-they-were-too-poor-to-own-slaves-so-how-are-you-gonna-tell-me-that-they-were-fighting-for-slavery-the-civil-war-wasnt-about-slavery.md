@@ -1,6 +1,7 @@
 ---
 title: "My ancestors fought for the Confederacy but they were too poor to own slaves, so how are you gonna tell me that they were fighting for slavery? The civil war wasn't about slavery."
 draft: false
+tags: [civil war, confederacy, confederate]
 ---
 
 [Constitution of the Confederate States](http://avalon.law.yale.edu/19th_century/csa_csa.asp):  
