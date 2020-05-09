@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://idc-snoe.github.io/idc-answers/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/claims/</loc>
+    <loc>https://idc-snoe.github.io/idc-answers/claims/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://idc-snoe.github.io/idc-answers/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://idc-snoe.github.io/idc-answers/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/claims/the-reason-racism-is-a-problem-is-because-people-keep-looking-for-ways-to-be-offended/</loc>
+    <loc>https://idc-snoe.github.io/idc-answers/claims/the-reason-racism-is-a-problem-is-because-people-keep-looking-for-ways-to-be-offended/</loc>
   </url>
   
 </urlset>

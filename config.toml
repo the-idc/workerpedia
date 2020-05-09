@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://idc-snoe.github.io/idc-answers/"
 languageCode = "en-us"
 title = "Left Answers"
 theme = "learn"
