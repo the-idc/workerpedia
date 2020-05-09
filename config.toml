@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "Left Answers"
 theme = "learn"
 publishdir = "docs"
+[params]
+disableAssetsBusting = true
