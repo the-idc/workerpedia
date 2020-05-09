@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Left Answers</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Left Answers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 May 2020 18:10:39 -0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bar</title>
+      <link>http://example.org/foo/bar/</link>
+      <pubDate>Fri, 08 May 2020 18:10:39 -0600</pubDate>
+      
+      <guid>http://example.org/foo/bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The reason racism is a problem is because people keep looking for ways to be offended</title>
+      <link>http://example.org/claims/the-reason-racism-is-a-problem-is-because-people-keep-looking-for-ways-to-be-offended/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/claims/the-reason-racism-is-a-problem-is-because-people-keep-looking-for-ways-to-be-offended/</guid>
+      <description>“Ways to be offended” is a common phrase among Conservatives reacting to “Political Correctness.&amp;rdquo; It is an example of how mainstream media exploits public fear and hatred as a social control mechanism
+There are various theories about the origins of the actual phrase, but until the 1980s in the United States, it was usually used ironically exclusively by the Left. It didn’t surface in mainstream American culture until 1990 when Richard Bernstein used it in a New York Times article to describe “unofficial ideology of the university .</description>
+    </item>
+    
+  </channel>
+</rss>
