@@ -2,6 +2,7 @@
 title: "It's this welfare system that's hurting Blacks. We need to stop enabling them."
 draft: false
 tags: [welfare, enabling, handouts]
+categories: [Racism]
 ---
 
 Not all Black Americans are on welfare, so let's try not to generalize here.  
@@ -19,4 +20,7 @@ Lee Atwater – a political strategist popular for working under Nixon – summe
 It's white supremacy and Capitalism that's hurting us. We're obviously hurt more as Black Americans under our current system, and this is no secret, but this is because of the hand we've been dealt by this country since our ancestors were brought here on slave ships centuries ago.  
   
 PS: Just 10% of the federal budget goes toward welfare programs.
+
+----
+Source: https://blacksocialists.us/
 

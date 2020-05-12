@@ -1,6 +1,6 @@
 baseURL = "https://idc-snoe.github.io/idc-answers/"
 languageCode = "en-us"
-title = "Leftpedia"
+title = "Workerpedia"
 theme = "learn"
 publishdir = "docs"
 [params]

@@ -2,6 +2,7 @@
 title: "The Irish were slaves too."
 draft: false
 tags: [irish]
+categories: [Racism]
 ---
 
 Were the Irish ever slaves (period)?  
@@ -31,4 +32,7 @@ Forced labor is forced labor, but it is dishonest to compare the exploitation of
 The Irish in America were often mistreated, but they were always legally people.  
   
 For much of our history, Africans were not.
+
+----
+Source: https://blacksocialists.us/
 

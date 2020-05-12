@@ -2,6 +2,7 @@
 title: "They're trying to erase white history!"
 draft: false
 tags: [erase, white, history]
+categories: [Racism]
 ---
 
 Not only is there not any real unitary "white" history, but there is something to be said here about the utility of history (as a subject in schools, for example).  
@@ -25,4 +26,7 @@ If you want to talk about "white" history being erased, perhaps it would be wort
 If you don't want "white" history erased, perhaps it would be worth fighting to ensure that Europeans aren't homogenized into crude categories like "white" by encouraging others to read about the racial hierarchies that existed in the Spanish colonies and how they inform the racism of today.  
   
 One should use this knowledge to understand that someone in power will always come up with a reason for you to hate your neighbor so they can oppress you both. Racism at large is just divisive, and to let the racists purify your "white" history so people with white skin seem "superior" just makes us forget the errors that "white" people have been a part of and continue to perpetuate.
+
+----
+Source: https://blacksocialists.us/
 

@@ -2,6 +2,7 @@
 title: "All lives matter."
 draft: false
 tags: [all lives matter, lives matter]
+categories: [Racism]
 ---
 
 "All lives matter" is a clever trick.  
@@ -25,4 +26,7 @@ It makes the preposterous claim that everyone has started out equally and thus e
 Furthermore, it feigns the victimhood of white people by implying that white lives are being ignored (poor and working-class white Americans have, up until now, collectively chosen to take the psychological wage that comes under white supremacy and Capitalism instead of working with poor and working-class Black Americans to dismantle these systems and build a better world).  
   
 The Black Lives Matter movement, even with all of its flaws, has not argued that Black lives matter more, but rather that Black lives matter **JUST AS MUCH**; there is an implicit "too" that goes along with "Black Lives Matter" (Black Lives Matter **Too**).
+
+----
+Source: https://blacksocialists.us/
 

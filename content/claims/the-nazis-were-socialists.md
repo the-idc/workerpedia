@@ -2,6 +2,7 @@
 title: "The Nazis were Socialists."
 draft: false
 tags: [nazi, nazis]
+categories: [Fascism]
 ---
 
 Boy, are you gonna be disappointed when you realize that Dairy Queen isn't actually a literal queen, or that the Philadelphia Flyers can't actually fly.  
@@ -41,4 +42,7 @@ Then they came for me—and there was no one left to speak for me."
 When Socialism comes, we can tell you who it will benefit:  
   
 **The people.**
+
+----
+Source: https://blacksocialists.us/
 

@@ -43,6 +43,7 @@ for row in records:
     yaml_text += "title: \"" + row.get("Claim").replace('"', '\\"') + "\"\n"
     yaml_text += "draft: false\n"
     yaml_text += "tags: [" + row.get("Keywords") + "]\n"
+    yaml_text += "categories: [" + row.get("Categories") + "]\n"
 
     # Set the Page title value.
     #yaml_text += "title: \"Left Answers: " + row.get("Claim") + "\".\n"
@@ -51,4 +52,16 @@ for row in records:
     new_yaml.write(yaml_text + "---\n\n")
     new_yaml.write(row.get("Response"))
     new_yaml.write("\n\n")
+
+    if row.get("Education"):
+      new_yaml.write("----\n")
+      new_yaml.write(row.get("Education"))
+      new_yaml.write("\n\n")
+
+    if row.get("Source"):
+      new_yaml.write("----\n")
+      new_yaml.write("Source: ")
+      new_yaml.write(row.get("Source"))
+      new_yaml.write("\n\n")
+
     new_yaml.close()

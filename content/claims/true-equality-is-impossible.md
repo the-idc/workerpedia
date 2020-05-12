@@ -2,6 +2,7 @@
 title: "True equality is impossible"
 draft: false
 tags: [equality, impossible]
+categories: [Pessimism]
 ---
 
 Equality is not "sameness."  
@@ -17,4 +18,7 @@ In a socialist society, people are not treated the same, but the productive powe
 Equality is treating everyone with equal value, and assures fairness in that everyone ought to have equal opportunity and equal benefit from their knowledge and skills, thereby achieving equality in fair results.  
   
 We may not be able to reach true equality in opportunity, but the goal should be for us to get as close to this as possible as a human species.
+
+----
+Source: https://blacksocialists.us/
 

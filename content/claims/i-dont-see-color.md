@@ -2,6 +2,7 @@
 title: "I don't see color."
 draft: false
 tags: [see color, blind, color-blind, colorblind]
+categories: [Racism]
 ---
 
 If you don't see color, then you don't see the everyday struggles people go through because of color.  
@@ -13,4 +14,7 @@ Color-blindness accepts that racism is personal rather than societal and institu
 More starkly, racism is typically viewed as isolated acts by ignorant people and extremist hate groups. Even institutional acts, such as racial profiling by police or the disproportionate impact of mortgage lending to Blacks and Latinos, are in the least calls for punishment of "bad apples," and at the most temporary regional media scandals rather than the recognition of systemic racism rooted in our societal framework.  
   
 In practice, white people who subscribe to color-blindness shamelessly obscure the institutional arrangements reproducing structural inequalities, while maintaining the racial status quo.
+
+----
+Source: https://blacksocialists.us/
 

@@ -2,6 +2,7 @@
 title: "The Confederate flag is just Southern pride; it's our heritage. We're not racist."
 draft: false
 tags: [confederate, flag]
+categories: [Racism]
 ---
 
 [This is not the flag of the Confederacy.  
@@ -19,4 +20,7 @@ The intensity of the political fight over the Confederate flag has actually led 
 Researchers found that a widespread defense of the Confederate flag among whites has much more to do with racial concerns than with other aspects of southern heritage. (Reingold, Beth, and Richard S. Wike. "Confederate Symbols, Southern Identity, and Racial Attitudes: The Case of the Georgia State Flag." _Social Science Quarterly_, vol. 79, no. 3, 1998, pp. 568–580.).  
   
 The Confederate flag has been used by the KKK and other white supremacists who oppose racial justice up until today. Even government official George Wallace's 1963 "Segregation Forever" campaign included raising the Confederate flag. The symbolism and function of the Confederate flag therefore is not merely a neutral cultural object, but a ritual object of power, dominance, and subordination (Shanafelt, R. (2008)). _The nature of flag power: How flags entail dominance, subordination, and social solidarity. Politics and the Life Sciences_, 27(2), 13-27.).](https://goo.gl/images/wcWbfe)
+
+----
+Source: https://blacksocialists.us/
 

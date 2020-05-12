@@ -2,6 +2,7 @@
 title: "On police brutality: \"These are just isolated incidents. Why don't they report on good cops?\""
 draft: false
 tags: [bad apples, cops, police]
+categories: [Policing]
 ---
 
 Cops already have overwhelmingly positive media coverage.  
@@ -15,4 +16,7 @@ If the news reported on police brutality (and the corruption that follows in all
 Furthermore, policing as an institution in America is founded on white supremacy. Policing as an institution in America was [started to catch runaway slaves](https://plsonline.eku.edu/insidelook/brief-history-slavery-and-origins-american-policing), and to this day the racist trend continues ([neo-Nazis have been infiltrating police ranks for decades now](https://www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement)). All police are serving an institution that is predicated on economic and racial injustice since the laws of the land themselves do so.  
   
 [A Nixon official was quoted as saying the reason Nixon stated the war on drugs was to target hippies and Blacks, and that's but one example](https://www.cnn.com/2016/03/23/politics/john-ehrlichman-richard-nixon-drug-war-blacks-hippie/index.html).
+
+----
+Source: https://blacksocialists.us/
 

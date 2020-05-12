@@ -2,6 +2,7 @@
 title: "Well, I've never benefited from being white, I can tell ya that much."
 draft: false
 tags: [being white]
+categories: [Racism]
 ---
 
 This is a good opportunity to talk about the way that your position in life shapes the way you see things.  
@@ -31,4 +32,7 @@ For many families, the primary residence is an important component of the balanc
 In addition to substantial heterogeneity within race/ethnicity groups by education, there are also large disparities across race/ethnicity groups for families with similar levels of education. Among households headed by someone with a college degree, net worth is substantially higher for white families than for the other three groups of families. The median net worth of college graduates in 2016 was $397,100 for white families, but well below $100,000 for black families and Hispanic families.  
   
 This advantage is hard to see for most white people, and for various reasons (mostly because most white people spend most of their time around other white people of the same, or a similar, class, which isn't something unique).
+
+----
+Source: https://blacksocialists.us/
 

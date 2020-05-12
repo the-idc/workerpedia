@@ -2,6 +2,7 @@
 title: "What about Black privilege? It's easier to get into college or get financial aid if you're Black. You get more benefits if you're Black."
 draft: false
 tags: [black privelege, college, benefits]
+categories: [Racism]
 ---
 
 [Yet despite an increase in enrollment, Black Americans are still lagging behind in college population.](https://nces.ed.gov/programs/coe/pdf/coe_cpb.pdf)  
@@ -13,4 +14,7 @@ tags: [black privelege, college, benefits]
 This leads to the final point, as these differences exist even when controlling for other factors:  
   
 Even if Black Americans make it to college, their wages are much lower than whites, and this has actually gotten worse since the 1970s.
+
+----
+Source: https://blacksocialists.us/
 

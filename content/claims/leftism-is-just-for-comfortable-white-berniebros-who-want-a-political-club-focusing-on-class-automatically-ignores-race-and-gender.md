@@ -2,6 +2,7 @@
 title: "Leftism is just for comfortable white BernieBros who want a political club. Focusing on class automatically ignores race and gender."
 draft: false
 tags: [bros, berniebros, leftism, class]
+categories: [Class]
 ---
 
 Did systemic racism as we understand it today exist prior to Capitalism (mercantile or otherwise)?  
@@ -25,4 +26,7 @@ This is not to suggest class is "more important" than race or gender, but that w
 Secondly, Socialists have been at the forefront of women's liberation and the liberation of people of color. Whether it was W.E.B. DuBois, A. Philip Randolph, Ella Baker, Fannie Lou Hamer, Martin Luther King Jr., Malcolm X, Huey P. Newton, Fred Hampton, etc. (we could keep going, and for a very long time).  
   
 Try telling them (or us) that attacking the issue of class will make people "ignore" race and gender (and more broadly, identity).
+
+----
+Source: https://blacksocialists.us/
 

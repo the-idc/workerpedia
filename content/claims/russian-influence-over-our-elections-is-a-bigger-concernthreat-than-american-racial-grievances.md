@@ -2,6 +2,7 @@
 title: "Russian influence over our elections is a bigger concern/threat than American racial grievances."
 draft: false
 tags: [russia, russian]
+categories: [Pessimism]
 ---
 
 What a, dare we say... privileged position to take.  
@@ -13,4 +14,7 @@ Gerrymandering, social media manipulation, ex-offenders being indefinitely strip
 Not to mention that the U.S. capitalist class (and state) regularly fixes democratic elections in other countries for their interests and even helped Putin rise to power in Russia!  
   
 If anything, U.S. Liberals reaped what they sowed in 2016.
+
+----
+Source: https://blacksocialists.us/
 

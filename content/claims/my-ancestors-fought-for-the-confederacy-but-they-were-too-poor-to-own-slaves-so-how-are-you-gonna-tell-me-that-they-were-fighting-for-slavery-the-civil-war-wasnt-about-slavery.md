@@ -2,6 +2,7 @@
 title: "My ancestors fought for the Confederacy but they were too poor to own slaves, so how are you gonna tell me that they were fighting for slavery? The civil war wasn't about slavery."
 draft: false
 tags: [civil war, confederacy, confederate]
+categories: [Racism]
 ---
 
 [Constitution of the Confederate States](http://avalon.law.yale.edu/19th_century/csa_csa.asp):  
@@ -28,4 +29,7 @@ Finally, [to quote Alexander Stephens, vice president of the Confederacy](https:
 Our new Government is founded upon exactly the opposite ideas; its foundations are laid, its cornerstone rests, upon the great truth that the negro is not equal to the white man; that slavery, subordination to the superior race, is his natural and moral condition."  
   
 Why one would argue that supporting the Confederacy was not "necessarily" about slavery when the Confederacy's leaders say the **exact opposite** is beyond us (but not really).
+
+----
+Source: https://blacksocialists.us/
 

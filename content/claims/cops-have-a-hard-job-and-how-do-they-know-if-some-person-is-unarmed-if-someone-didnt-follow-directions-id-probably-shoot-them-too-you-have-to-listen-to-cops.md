@@ -2,6 +2,7 @@
 title: "Cops have a hard job, and how do they know if some person is unarmed? If someone didn't follow directions, I'd probably shoot them too. You have to listen to cops."
 draft: false
 tags: [cops, police, follow directions]
+categories: [Policing]
 ---
 
 [Policing institutions have their roots in slave patrols, so just keep that in mind when you tell Black people that they "have to listen to cops](https://plsonline.eku.edu/insidelook/brief-history-slavery-and-origins-american-policing)."  
@@ -27,4 +28,7 @@ Putting aside whether or not there should even be cops in the first place (there
 You can argue that cops sometimes have a reason to use lethal force. But we constantly see cases where they use it without having sufficient justification and someone ends up dead. And it disproportionately happens to Black people because they are disproportionately targeted for various reasons, including where they live, implicit bias, spurious 911 calls, and simple, intentional profiling.  
   
 It's easy to say that you have to follow a cop's directions if you're not regularly on the receiving end of such directions. If you are, have you always managed to perfectly comply, and can you really expect that of someone every time? What if the directions aren't even consistent, as has certainly happened before? If you're not regularly on the receiving end of such directions, maybe consider how your opinion might change if you were, because there are people for whom that is reality, and their lives matter just as much as yours.
+
+----
+Source: https://blacksocialists.us/
 
