@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social media on Workerpedia</title>
+    <link>https://idc-snoe.github.io/idc-answers/tags/social-media/</link>
+    <description>Recent content in social media on Workerpedia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://idc-snoe.github.io/idc-answers/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How do I spot bots and bad faith actors on social media?</title>
+      <link>https://idc-snoe.github.io/idc-answers/claims/how-do-i-spot-bots-and-bad-faith-actors-on-social-media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/claims/how-do-i-spot-bots-and-bad-faith-actors-on-social-media/</guid>
+      <description>Here&amp;rsquo;s some tips on spotting bots:
+How to Spot a Twitter Bot
+ Many Twitter bots have a relatively recent creation date. Many bot user names contain numbers, which can indicate automatic name generation. The account primarily retweets content, rather than tweeting original content. The account’s tweet frequency is higher than a human user could feasibly achieve. The account may have a high number of followers and also be following a lot of accounts; conversely, some bot accounts are identifiable because they send a lot of tweets but only have a few followers.</description>
+    </item>
+    
+  </channel>
+</rss>

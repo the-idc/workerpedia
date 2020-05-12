@@ -1,14 +1,140 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Leftpedia</title>
+    <title>Categories on Workerpedia</title>
     <link>https://idc-snoe.github.io/idc-answers/categories/</link>
-    <description>Recent content in Categories on Leftpedia</description>
+    <description>Recent content in Categories on Workerpedia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="https://idc-snoe.github.io/idc-answers/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Capitalism</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/capitalism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/capitalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fascism</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/fascism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/fascism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immigration</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/immigration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/immigration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inequality</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/inequality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liberalism</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/liberalism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/liberalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pessimism</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/pessimism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/pessimism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policing</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/policing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/policing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Correctness</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/political-correctness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/political-correctness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protest</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/protest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/protest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Racism</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/racism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/racism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selfishness</title>
+      <link>https://idc-snoe.github.io/idc-answers/categories/selfishness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idc-snoe.github.io/idc-answers/categories/selfishness/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
