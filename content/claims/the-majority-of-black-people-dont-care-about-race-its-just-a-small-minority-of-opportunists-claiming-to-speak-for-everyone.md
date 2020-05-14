@@ -3,6 +3,7 @@ title: "The majority of Black people don't care about race; it's just a small mi
 draft: false
 tags: [care about race]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 What is the source for this claim?  
@@ -12,7 +13,4 @@ Black American people have been speaking out about racial issues for centuries n
 This isn't even debatable.  
   
 Certainly you don't "speak for" all Black people, do you?
-
-----
-Source: https://blacksocialists.us/
 

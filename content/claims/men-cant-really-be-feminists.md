@@ -3,6 +3,7 @@ title: "Men can't really be feminists."
 draft: false
 tags: [feminists, feminism]
 categories: [Other]
+source: https://blacksocialists.us/
 ---
 
 Men have plenty to benefit from feminism.  
@@ -16,7 +17,4 @@ In addition to all of the ways that feminism will liberate women, it will libera
 In fact, those men who have the most misdirected anger toward feminism would have the most to gain from it.  
   
 The common perception of the most "valuable" men being physically strong, arrogant, uninterested in intellectual pursuits, and the other "Chad" stereotypes that are complained about so often, is reinforced by the very same patriarchy that feminists wish to abolish.
-
-----
-Source: https://blacksocialists.us/
 

@@ -3,6 +3,7 @@ title: "Blacks are great, but they only have themselves and their culture to bla
 draft: false
 tags: [culture, rap]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 Policing was anti-Black long before rap music was invented.  
@@ -18,7 +19,4 @@ Slave patrollers, meanwhile, were usually either paid a wage or more often a bou
 During Reconstruction, the need for non-farm labor that had previously been met by slaves was instead met by convict labor, almost exclusively recently freed Black people arrested for violating the new "Black Codes."  
   
 The penal labor exemption of the Thirteenth Amendment allowed a system where forced labor of people of colors could be continued almost uninterrupted after emancipation (this is why we say slavery technically never ended). This system has lived on into the present day, and the rise of for-profit prisons, with contracts that often stipulate a minimum number of filled beds, has arguably escalated the exploitation of the most legally vulnerable members of communities: Black and brown Americans.
-
-----
-Source: https://blacksocialists.us/
 

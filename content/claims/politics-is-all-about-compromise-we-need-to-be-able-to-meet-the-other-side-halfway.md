@@ -3,6 +3,7 @@ title: "Politics is all about compromise; we need to be able to meet the other s
 draft: false
 tags: [compromise, aisle, work with]
 categories: [Liberalism]
+source: https://blacksocialists.us/
 ---
 
 Most people agree that compromise is essential in electoral politics and "politics" in general. The failure of politicians to compromise is often attributed to political polarization of our country – that is, for the Right and the Left to come to the middle. However, Gutmann and Thompson argue that there is an internal tension in political compromise in that the democratic process requires politicians both to resist compromise and to embrace it. Specifically, they point to the uncompromising mindset that characterizes campaigning which obstructs the search for desirable compromises:  
@@ -16,7 +17,4 @@ Obviously, not much can change without some compromise, and major change needs m
 David Davenport in Forbes wrote: [I, for one, plan to stop voting for candidates who are more committed to their reelection, their party, and their one-word litmus tests than they are to making the government work."](https://www.forbes.com/sites/daviddavenport/2018/01/24/congress-and-the-lost-art-of-compromise/#242941b7d597)  
   
 As usual, the attitude of the capitalist class isn't to change the two-party electoral system, adopt a different voting style, or some other governmental feature to make compromise and therefore change possible. Instead, their solution is to blame constituents for lack of compromise and politicians maintaining the status quo.
-
-----
-Source: https://blacksocialists.us/
 

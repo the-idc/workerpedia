@@ -3,6 +3,7 @@ title: "I've never personally done anything to oppress Black people (or any oppr
 draft: false
 tags: [racist, i'm not racist, personally, racist bone]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 **That's good to hear. Now let's talk about the institutions that oppress Black people and other people of color**.  
@@ -18,7 +19,4 @@ Black and/or "foreign"-sounding names are less likely to get call-backs for hous
 Whites benefit directly and indirectly from all of this, and often contribute to the maintenance of this system, without even knowing it.  
   
 Most of the capitalist class in America is also made up of white Americans. This means they have control of most of our major industries and institutions (this includes the government and greater state apparatus as well), and so the mechanisms that maintain and push white supremacy (control) throughout our greater society are extremely pervasive all throughout the country.
-
-----
-Source: https://blacksocialists.us/
 

@@ -3,6 +3,7 @@ title: "You call everyone you don't like a racist/fascist."
 draft: false
 tags: [racist, racism, fascist, fascism]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 Technically, it is correct that anyone who doesn't defend marginalized people who look physically different than them, even when choosing to be neutral, is a racist in some way.  
@@ -26,7 +27,4 @@ If you think all criminals should be put to death, that's something a fascist mi
 In general, a lot of people are extremely sensitive to criticism or the possibility of feeling misrepresented; we are are not different in that regard. We don't like being told that we call everyone we don't like racist; it just so happens that when people do racist things and we call them on it, they don't like it.  
   
 If you genuinely don't want to be considered a racist or fascist, then you should listen when someone calls something you did racist or fascist (at the minimum). We can, for the most part, tell when someone is being unreasonable, but you have to at least hear others out, especially if you want them to trust you, be your friend, and/or stay your friend.
-
-----
-Source: https://blacksocialists.us/
 

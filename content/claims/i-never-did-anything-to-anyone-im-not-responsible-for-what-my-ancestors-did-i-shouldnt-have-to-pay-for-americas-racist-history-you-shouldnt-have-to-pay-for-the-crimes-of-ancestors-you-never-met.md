@@ -3,6 +3,7 @@ title: "I never did anything to anyone. I'm not responsible for what my ancestor
 draft: false
 tags: [past, history, ancestors]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 You didn't cross the Delaware river either.  
@@ -24,7 +25,4 @@ Everything that we do, or do not do, has an impact on the world around us. Most 
 The simple passage of time will not allow our societal wounds to heal, no matter how determined we are to convince ourselves that we are not involved. Apathy or denial might manifest from a feeling of helplessness about what we can do to help the people around us.  
   
 There is nothing wrong with uncertainty, as long we are willing to address it in a meaningful way. The most important part of our relationship with humanity is to make ourselves accountable to each other. Millions of people are asking their neighbors for help, and we have a responsibility to listen to them.
-
-----
-Source: https://blacksocialists.us/
 

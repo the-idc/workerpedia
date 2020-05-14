@@ -3,6 +3,7 @@ title: "I have plenty of black friends; I don't have a racist bone in my body."
 draft: false
 tags: [black friend, friends]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 Racism is not as simple as "hating all black people."  
@@ -20,7 +21,4 @@ Lots of people hold no hatred for Black people, but as white Americans have been
 This doesn't make all white people "bad" people; it is just what their upbringings have made them (how they are shaped by their environments).  
   
 This, however, does mean that white people have an obligation to listen to Black voices, and to carefully examine the beliefs they have received when they learn that they have racist origins.
-
-----
-Source: https://blacksocialists.us/
 

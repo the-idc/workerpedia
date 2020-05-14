@@ -3,6 +3,7 @@ title: "I agree with what you're saying, just not with how you're saying it."
 draft: false
 tags: [tone, with how, methods, practice]
 categories: [Political Correctness]
+source: https://blacksocialists.us/
 ---
 
 This is called [tone policing](https://en.wikipedia.org/wiki/Tone_policing).  
@@ -18,7 +19,4 @@ Obviously saying "white people are racist" (for example) is so simplistic that i
 Tone policing isn't the solution to this problem, and neither is telling people to educate themselves.  
   
 People are always going to be reactionary and interpret statements according to how they make them feel. It's up to us collectively to educate people over time, and with patience.
-
-----
-Source: https://blacksocialists.us/
 

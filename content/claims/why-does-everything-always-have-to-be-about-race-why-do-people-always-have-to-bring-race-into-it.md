@@ -3,6 +3,7 @@ title: "Why does everything always have to be about race? Why do people always h
 draft: false
 tags: [race, always]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 Because the color of your skin predicts many of the outcomes you will experience in your life.  
@@ -24,7 +25,4 @@ We are one people and we are many.
 We do not seek to erase the differences that make us each ourselves. We seek a world in which those differences are celebrated, not used to divide one from their siblings.  
   
 It's about race because race determines too much of what we experience in life. It ought not to. We must right that wrong together.
-
-----
-Source: https://blacksocialists.us/
 

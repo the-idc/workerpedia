@@ -3,6 +3,7 @@ title: "I don't see color. By seeing racism in all things, you're perpetuating i
 draft: false
 tags: [racist, racism, race, see color]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 Recognizing race as a social construct does not make race less "real."  
@@ -18,7 +19,4 @@ Race is something that is real in society, and that shapes the way we see oursel
 Race indicators are collectively imposed and defined by the dominant group to indicate what status you have in society. People do not realize that they may not be explicitly endorsing racism while tacitly accepting racist ideology and promoting racism by way of reaping the benefits coffered to them. As such, race has real consequences and effects on laws, institutions, structural inequality, health, etc.  
   
 Ignoring race is ineffective and harmful in dealing with social, structural, and institutional issues.
-
-----
-Source: https://blacksocialists.us/
 

@@ -3,6 +3,7 @@ title: "If more Black people worked hard, they wouldn't be where they're at righ
 draft: false
 tags: [work hard, worked hard, work harder, worked harder, model minority]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 If we're not going to delve into the entire failure of Reconstruction to put Black people on anywhere near an equal footing in our society...  
@@ -18,7 +19,4 @@ This is discussed by the scholar Mehrsa Baradaran in [The Color of Money](http:/
 It's worth looking at the history of Black-owned banks in the United States as well.  
   
 Look at the Freedman's Bank, where Black people were accumulating deposits of capital that were wiped out by railroad speculation (done by white speculators who were managing this capital, not Black speculators!) and then not backed by the federal government. This collapse was wildly damaging to the trust the Black community had in banking in general for decades, further preventing Black citizens from building wealth, as they did not have access to credit that other groups could take advantage of (especially other immigrant groups that are highlighted by Baradaran's research in the 1900s in [this Intercepted podcast interview](https://theintercept.com/2017/10/11/intercepted-podcast-the-white-stuff/)).
-
-----
-Source: https://blacksocialists.us/
 

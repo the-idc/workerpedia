@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+
+<footer class="footline">
+
+  <hr>
+  {{ if .Params.source  }}
+  Source: <a href="{{ .Params.source }}">{{ .Params.source }}</a>
+  {{ end }}
+	{{with .Params.LastModifierDisplayName}}
+	    <i class='fas fa-user'></i> <a href="mailto:{{ $.Params.LastModifierEmail }}">{{ . }}</a> {{with $.Date}} <i class='fas fa-calendar'></i> {{ .Format "02/01/2006" }}{{end}}
+	    </div>
+	{{end}}
+</footer>
+
+
+{{ partial "footer.html" . }}

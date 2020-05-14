@@ -3,6 +3,7 @@ title: "Does it actually really affect you though? Why care so much if it doesn'
 draft: false
 tags: [affect me, effect me, affect you, effect you]
 categories: [Selfishness]
+source: https://blacksocialists.us/
 ---
 
 Many of our white comrades would say that our struggles do affect them, and that even if they didn't, they would still care because they have a base level of care for other human beings.  
@@ -14,7 +15,4 @@ But let's go one step further and say that it doesn't affect you and other peopl
 That's the point.  
   
 If you don't care when it doesn't affect you, by the time that it does affect you, it will be too late. And the people that will be able to do something about it because it doesn't affect them, won't, just as you didn't.
-
-----
-Source: https://blacksocialists.us/
 

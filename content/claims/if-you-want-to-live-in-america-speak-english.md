@@ -3,6 +3,7 @@ title: "If you want to live in America speak English."
 draft: false
 tags: [english, speak english, in america]
 categories: [Immigration]
+source: https://blacksocialists.us/
 ---
 
 If your ancestors wanted to live in America, maybe they should have learned some Indigenous/Native American languages (as well as some other things).  
@@ -24,7 +25,4 @@ Studies show that bilingual children are better at problem-solving and creative 
 Not to mention there are plenty of dialects of other languages that are only spoken here! For example, Texan German is a thing because of migrants passing it down through generations. Louisiana French is another example of a language only spoken here. And at some point, it will be the same way for Spanish. That's not even counting AAVE (Black American English in all of its forms).  
   
 We should **embrace** language diversity.
-
-----
-Source: https://blacksocialists.us/
 

@@ -3,6 +3,7 @@ title: "At least capitalists won't send you to the gulag."
 draft: false
 tags: [gulag, prison]
 categories: [Capitalism]
+source: https://joinidc.co
 ---
 
 Ignoring the problematic media portrayal of gulags, [capitalist countries had mastered concentration camps long before soviet gulags[(https://jacobinmag.com/2017/05/uk-concentration-camps-wwii-poland-internment-prisoners).
@@ -13,7 +14,4 @@ Even today, [for-profit prison systems in capitalist countries effectively ensla
 
 Gulags as they're portrayed in popular media are certainly terrible, but the capitalist system has normalized and monetized the enslavement of the most vulnerable elements of our society with no end in sight.
 
-
-----
-Source: https://joinidc.co
 

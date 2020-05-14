@@ -3,6 +3,7 @@ title: "The reason racism is a problem is because people keep looking for ways t
 draft: false
 tags: [racism, offended, pc, political correctness, politically correct]
 categories: [Political Correctness]
+source: https://blacksocialists.us/
 ---
 
 "Ways to be offended" is a common phrase among Conservatives reacting to "Political Correctness." It is an example of how [mainstream media exploits public fear and hatred as a social control mechanism](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.4091&rep=rep1&type=pdf).  
@@ -14,7 +15,4 @@ According to Moira Weigel, the article "set off a chain reaction, as one mainstr
 Books and media (both pro and con) quickly popularized concepts of "PC culture," which incited and spread fear among Conservatives about "Liberal fascism." The phrase entered mainstream U.S. culture as a trigger phrase in dichotomous "Liberal versus Conservative" political debate.  
   
 In short, "people are looking for ways to be offended," is a product of fear propaganda by the media used to turn a profit.
-
-----
-Source: https://blacksocialists.us/
 

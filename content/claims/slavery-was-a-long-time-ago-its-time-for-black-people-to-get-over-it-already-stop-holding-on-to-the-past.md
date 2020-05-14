@@ -3,6 +3,7 @@ title: "Slavery was a long time ago; it's time for Black people to get over it a
 draft: false
 tags: [slavery, time ago, the past]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 **First of all, the year is 2020 and "slavery" is still ongoing.**  
@@ -35,7 +36,4 @@ Up until the passing of the CRA, we were literally considered second-class citiz
 Racism has been a thing your entire life, and it didn't just disappear with the CRA. In fact, right after the CRA passed, and just before, there were huge race riots.  
   
 We don't want to have the effects of slavery still weighing on us, but until the effects are gone, we must bring them up.
-
-----
-Source: https://blacksocialists.us/
 

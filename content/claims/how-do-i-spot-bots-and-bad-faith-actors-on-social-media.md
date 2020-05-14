@@ -3,6 +3,7 @@ title: "How do I spot bots and bad faith actors on social media?"
 draft: false
 tags: [bots, bad faith, shills, social media]
 categories: [Media]
+source: https://joinidc.co
 ---
 
 Here's some tips on spotting bots:
@@ -26,7 +27,4 @@ In addition to bots, watch out for bad faith actors who are frequently employees
 - Purity testers don't tell you a policy agenda is wrong; they’re here to tell you those are bad spokespeople for their cause. See: AOC wearing nice clothes means she can't care about the poor.
 - [More in this link](https://medium.com/s/story/a-field-guide-to-bad-faith-arguments-7-terrible-arguments-in-your-mentions-ee4f194afbc9)
 
-
-----
-Source: https://joinidc.co
 

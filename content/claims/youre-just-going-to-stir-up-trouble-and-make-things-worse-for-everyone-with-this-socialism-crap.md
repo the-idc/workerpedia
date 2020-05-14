@@ -3,6 +3,7 @@ title: "You're just going to stir up trouble and make things worse for everyone 
 draft: false
 tags: [trouble, things worse]
 categories: [Pessimism]
+source: https://blacksocialists.us/
 ---
 
 The "trouble" is already here and more "trouble" is coming.  
@@ -16,7 +17,4 @@ People have to work in shit they never really wanted to do because otherwise the
 The only people to have "things made worse" for are the rich, privileged few, which are in their position thanks to how bad life is for the rest.  
   
 Socialism is an attempt to make the world better, which is way better than anything Capitalism is going to achieve. If you don't like Socialism, propose a better social and economic alternative/framework.
-
-----
-Source: https://blacksocialists.us/
 

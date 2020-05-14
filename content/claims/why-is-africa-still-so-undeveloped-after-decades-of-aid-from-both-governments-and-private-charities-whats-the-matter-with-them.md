@@ -3,6 +3,7 @@ title: "Why is Africa still so undeveloped after decades of aid from both govern
 draft: false
 tags: [Africa, aid, charity, charities]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 Certainly you aren't trying to imply that there is something inherent about black people that makes them predisposed to failure.  
@@ -18,7 +19,4 @@ Despite "aid" from western countries, the amount of money flowing out of Africa 
 Since the mid 20th century, many African leaders who attempted to end this and develop their countries in the same way that western countries had (tax and spend, build public industry and services, etc.) have been couped and assassinated, mostly with help from the French, United Kingdom, and United States. (Sankara, Lumumba, Nkrumah, etc.).  
   
 Yes there are corrupt people in those countries at the top, and this does not contradict the imperialism hypothesis, as they are required by the richer countries to make the money flow.
-
-----
-Source: https://blacksocialists.us/
 

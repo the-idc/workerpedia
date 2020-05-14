@@ -3,6 +3,7 @@ title: "They have freedom of speech, but disrespecting the national anthem, the 
 draft: false
 tags: [freedom of speech, anthem, flag, troops, protest, kaepernick]
 categories: [Protest]
+source: https://blacksocialists.us/
 ---
 
 The national anthem literally has [racist lyrics](https://amhistory.si.edu/starspangledbanner/the-lyrics.aspx).  
@@ -18,7 +19,4 @@ If this statement is really about folks like Colin Kaepernick...
 Kaepernick originally sat during the national anthem but started kneeling out of respect to the troops after reaching out to veterans. The controversy surrounding this method of protest has clouded the message of the protest against police brutality.  
   
 Kaepernick cannot stand for a country in which young Black boys can be shot by police for existing without consequence.
-
-----
-Source: https://blacksocialists.us/
 

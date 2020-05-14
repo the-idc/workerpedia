@@ -3,6 +3,7 @@ title: "I can be a Capitalist and still be against racism; it's not that complic
 draft: false
 tags: [capitalist, capitalism]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 If you are against racism, you should look into how colonialists created "race," and how Capitalists utilize "race" so that workers go against their own interests and profits can be maximized.  
@@ -16,7 +17,4 @@ This is where racism (and race) becomes the Capitalist's favorite tool.
 You've heard these before because you live in a capitalist country.  
   
 In a socialist or communist society (not to be confused with "socialist" or "communist" states, purely in label alone), these would not be variables, because you would not be competing for underpaid jobs at the risk of losing your life.
-
-----
-Source: https://blacksocialists.us/
 

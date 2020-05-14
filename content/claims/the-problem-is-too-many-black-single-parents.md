@@ -3,6 +3,7 @@ title: "The problem is too many Black single parents."
 draft: false
 tags: [parents, fathers]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 Although the prevalence of single parenthood is definitely an issue, it is not **thee** problem.  
@@ -16,7 +17,4 @@ Black Americans are more negatively impacted by our racist criminal justice syst
 Also, let's just say we're going to look at Black fathers leaving by choice; here, the problem isn't "race" (some sort of genetic predisposition, as some seem to imply), but rather **poverty**.  
   
 If you found yourself with someone who is pregnant, but you barely had enough to make ends meet just taking care of yourself (add this to the issue of [job discrimination](https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years)), then you would probably leave (most would); if we solved the problems of poverty and the other systemically racist mechanisms plaguing predominantly Black and brown communities, then the single parenthood rate would most definitely go down in these areas.
-
-----
-Source: https://blacksocialists.us/
 

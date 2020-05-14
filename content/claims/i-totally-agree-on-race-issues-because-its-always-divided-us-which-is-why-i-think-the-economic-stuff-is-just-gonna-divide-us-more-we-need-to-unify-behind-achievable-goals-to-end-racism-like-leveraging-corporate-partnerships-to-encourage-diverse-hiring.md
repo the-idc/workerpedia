@@ -3,6 +3,7 @@ title: "I totally agree on race issues, because it's always divided us, which is
 draft: false
 tags: [unify, unity, pragmatic, pragmatism, progressive, achieve, achievable, achieveable, capitalist, capitalism, corporate, corporations]
 categories: [Liberalism]
+source: https://blacksocialists.us/
 ---
 
 You are one step away from understanding the underlying cause of oppression, Capitalism.  
@@ -14,7 +15,4 @@ Also, the outgroup suffers significant adverse effects during this process. Amon
 Employment and education quotas alone as an attempt to increase contact with outgroups to solve racial issues is impractical and immoral. The cost of assimilation to the culture, identity, psychology, and health of the outgroup is significant. Under Capitalism, education and employment are competitive and stratified while diminishing prejudice only happens with equal status and no competition.  
   
 The goals of Capitalism and equality are incompatible. Race can only be addressed if "economic stuff" is addressed.
-
-----
-Source: https://blacksocialists.us/
 

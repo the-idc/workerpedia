@@ -3,6 +3,7 @@ title: "If Black people were more ambitious, racism wouldn't be an obstacle."
 draft: false
 tags: [ambitious, get over]
 categories: [Racism]
+source: https://blacksocialists.us/
 ---
 
 Before the recession, two-thirds of Americans surveyed said that the "American Dream" was harder to achieve. After the recession, even more Americans realized that not only was the "dream" unattainable, but that it was a myth.  
@@ -21,7 +22,4 @@ References:
 2) "Web exclusive: The myth of merit and the American Dream" Marin Theatre Company , November 28, 2018, [https://www.marintheatre.org/productions/good-people/gp-american-dream](https://www.marintheatre.org/productions/good-people/gp-american-dream)  
   
 3) Luhby, T. The American Dream is a myth, says Nobel prize winner. CNN Business, April 2015, [https://money.cnn.com/2015/04/22/news/economy/stiglitz-american-dream/index.html](https://money.cnn.com/2015/04/22/news/economy/stiglitz-american-dream/index.html)
-
-----
-Source: https://blacksocialists.us/
 

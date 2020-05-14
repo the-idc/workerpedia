@@ -3,10 +3,8 @@ title: "Now is not the time to focus on identity politics! It drives us apart wh
 draft: false
 tags: [identity politics, trump]
 categories: [Liberalism]
+source: https://blacksocialists.us/
 ---
 
 Ignoring the struggles of marginalized people is exactly what Trump and fascists would want you to do, no?
-
-----
-Source: https://blacksocialists.us/
 
