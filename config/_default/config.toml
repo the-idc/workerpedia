@@ -1,10 +1,13 @@
-baseURL = "https://idc-snoe.github.io/idc-answers/"
+baseURL = "https://kind-dijkstra-a6d23b.netlify.app"
 languageCode = "en-us"
 title = "Workerpedia"
 theme = "learn"
 publishdir = "docs"
+
 [params]
 disableAssetsBusting = true
 themeVariant = "red"
+custom_css = [ "custom.css" ]
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
