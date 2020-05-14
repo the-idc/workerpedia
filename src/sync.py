@@ -51,4 +51,9 @@ for row in records:
     new_yaml.write(row.get("Response"))
     new_yaml.write("\n\n")
 
+    if row.get("Education"):
+      new_yaml.write("----\n")
+      new_yaml.write(row.get("Education"))
+      new_yaml.write("\n\n")
+
     new_yaml.close()
