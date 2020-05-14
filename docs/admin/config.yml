@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: "idc-snoe/idc-answers"
+  branch: master
+  api_root: "https://api.github.com"
+  base_url: "https://api.netlify.com"
+  auth_endpoint: auth
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+collections:
+  - name: "claims"
+    label: "Claim"
+    folder: "content/claims"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
