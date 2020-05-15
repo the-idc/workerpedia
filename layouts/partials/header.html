@@ -68,12 +68,15 @@
                         </a>
                     </span>
                   <span class="links">
-                 {{$showBreadcrumb := (and (not .Params.disableBreadcrumb) (not .Site.Params.disableBreadcrumb))}}
-                 {{if $showBreadcrumb}}
-                    {{ template "breadcrumb" dict "page" . "value" .Title }}
-                 {{ else }}
-                   {{ .Title }}
-                 {{ end }}
+                    <a href="{{ "/" | relURL }}">Workerpedia</a> &gt;
+                    {{ if .IsPage }}
+                      {{ $catname := index (.Params.categories) 0 }}
+                      <a href="{{ "/categories/" | relLangURL }}{{ $catname | urlize }}">{{ $catname }}</a>
+                      &gt;
+                      {{ .Title }}
+                    {{ else }}
+                      {{ .Title }}
+                    {{ end }}
                   </span>
                 </div>
                 {{ if $toc }}

@@ -5,9 +5,9 @@
 {{end}}
 
 {{ if or (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") }}
-<ul>
+<ul style="position: relative">
 	{{ range .Pages }}
-		<li><a href="{{.RelPermalink}}">{{.Title}}</a></li>
+		<li style="padding: 0.5rem 0.5rem;"><a style="vertical-align: text-top;" href="{{.RelPermalink}}">{{.Title}}</a></li>
 	{{ end }}
 </ul>
 {{end}}
