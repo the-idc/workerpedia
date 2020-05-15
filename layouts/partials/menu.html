@@ -19,15 +19,6 @@
         <a href="{{ .Page.Permalink }}">
           {{safeHTML .Page.Params.Pre}}{{or .Page.Params.menuTitle .Page.LinkTitle .Page.Title}}{{safeHTML .Page.Params.Post}}
         </a>
-        <ul>
-        {{ range . }}
-          <li class="dd-item {{ if eq .Permalink $currentNode.Permalink }}active{{end}}">
-            <a href="{{ .Permalink}}">
-              {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}
-            </a>
-          </li>
-        {{ end }}
-        </ul>
       </li>
     {{ end }}
     </ul>
