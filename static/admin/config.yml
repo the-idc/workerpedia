@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: "idc-snoe/idc-answers"
+  repo: "the-idc/workerpedia"
   branch: master
   api_root: "https://api.github.com"
   base_url: "https://api.netlify.com"
