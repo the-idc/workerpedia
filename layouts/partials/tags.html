@@ -1,0 +1,21 @@
+
+{{ if .Params.tags }}
+<div class="tags">
+{{range .Params.tags}}
+  <a class="tag-link" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+{{end}}
+</div>
+{{end}}
+{{/*
+{{ $tags := slice }}
+{{ range .Pages }}
+  {{ $tags = $tags | append .Page.Params.tags | sort | uniq }}
+{{ end }}
+{{ if $tags }}
+<div class="tags">
+  {{ range $tags }}
+    <a class="tag-link" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+  {{ end }}
+</div>
+{{ end }}
+*/}}
