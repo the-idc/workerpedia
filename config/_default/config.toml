@@ -5,7 +5,6 @@ theme = "learn"
 publishdir = "docs"
 
 [params]
-disableAssetsBusting = true
 disableNextPrev = true
 themeVariant = "red"
 custom_css = [ "custom.css" ]

@@ -1,2 +1,3 @@
 baseURL = "https://idc-snoe.github.io/idc-answers/"
 publishdir = "docs"
+disableAssetsBusting = true
