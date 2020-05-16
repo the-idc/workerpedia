@@ -45,7 +45,7 @@
         <section id="body">
         <div id="overlay"></div>
         <div class="padding highlightable">
-              {{if not .IsHome}}
+              {{if and (not .IsHome) (not (eq .Section "top")) }}
               <div>
                 <div id="top-bar">
                 {{ if and (or .IsPage .IsSection) .Site.Params.editURL }}

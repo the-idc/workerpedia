@@ -11,3 +11,6 @@ custom_css = [ "custom.css" ]
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[permalinks]
+top = "/:filename/"
