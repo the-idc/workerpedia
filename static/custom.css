@@ -51,3 +51,11 @@
   grid-column-gap: 1rem;
   grid-auto-flow: column;
 }
+
+#body a.highlight {
+  display: inline;
+}
+
+#body a.highlight:after {
+  display: inline;
+}
