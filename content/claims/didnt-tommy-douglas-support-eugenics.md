@@ -1,8 +1,14 @@
 ---
-title: "Didn't Tommy Douglas support eugenics?"
+title: Didn't Tommy Douglas support eugenics?
 draft: false
-tags: [eugenics, tommy douglas, ndp]
-categories: [Other]
+date: 2020-05-23T07:24:32.879Z
+tags:
+  - eugenics
+  - tommy douglas
+  - ndp
+categories:
+  - Other
+  - Canada
 source: https://joinidc.co
 ---
 
