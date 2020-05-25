@@ -1,7 +1,7 @@
 baseURL = "https://workerpedia.co"
 languageCode = "en-us"
 title = "Workerpedia"
-theme = "learn"
+theme = "workerpedia"
 publishdir = "docs"
 
 [params]
