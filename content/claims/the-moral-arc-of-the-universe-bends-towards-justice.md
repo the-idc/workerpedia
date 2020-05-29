@@ -1,6 +1,6 @@
 ---
 title: "The moral arc of the universe bends towards justice."
-draft: false
+draft: true
 tags: [arc]
 categories: [Capitalism]
 source: https://blacksocialists.us/

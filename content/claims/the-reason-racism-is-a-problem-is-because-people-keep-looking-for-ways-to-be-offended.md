@@ -1,6 +1,6 @@
 ---
 title: "The reason racism is a problem is because people keep looking for ways to be offended"
-draft: false
+draft: true
 tags: [racism, offended, pc, political correctness, politically correct]
 categories: [Political Correctness]
 source: https://blacksocialists.us/

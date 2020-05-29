@@ -1,6 +1,6 @@
 ---
 title: "My ancestors fought for the Confederacy but they were too poor to own slaves, so how are you gonna tell me that they were fighting for slavery? The civil war wasn't about slavery."
-draft: false
+draft: true
 tags: [civil war, confederacy, confederate]
 categories: [Racism]
 source: https://blacksocialists.us/

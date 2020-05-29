@@ -1,6 +1,6 @@
 ---
 title: "Not EVERYTHING is about race. And isn't pointing out race just being racist, encouraging racism, or dividing us further?"
-draft: false
+draft: true
 tags: [race, racism, reverse racism, color, blind]
 categories: [Racism]
 source: https://blacksocialists.us/

@@ -1,6 +1,6 @@
 ---
 title: "The Irish were slaves too."
-draft: false
+draft: true
 tags: [irish]
 categories: [Racism]
 source: https://blacksocialists.us/

@@ -1,6 +1,6 @@
 ---
 title: "Why does everything always have to be about race? Why do people always have to bring race into it?"
-draft: false
+draft: true
 tags: [race, always]
 categories: [Racism]
 source: https://blacksocialists.us/

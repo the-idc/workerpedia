@@ -1,6 +1,6 @@
 ---
 title: "You keep talking about Black lives mattering; do you have a Black boyfriend/girlfriend you're not telling us about? lol"
-draft: false
+draft: true
 tags: [lives matter]
 categories: [Racism]
 source: https://blacksocialists.us/

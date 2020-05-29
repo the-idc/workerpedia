@@ -1,6 +1,6 @@
 ---
 title: "I've never personally done anything to oppress Black people (or any oppressed group)."
-draft: false
+draft: true
 tags: [racist, i'm not racist, personally, racist bone]
 categories: [Racism]
 source: https://blacksocialists.us/

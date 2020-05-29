@@ -1,6 +1,6 @@
 ---
 title: "If more Black people worked hard, they wouldn't be where they're at right now; look at all of the other minority groups in this country."
-draft: false
+draft: true
 tags: [work hard, worked hard, work harder, worked harder, model minority]
 categories: [Racism]
 source: https://blacksocialists.us/

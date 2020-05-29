@@ -1,6 +1,6 @@
 ---
 title: "You're all just asking for special treatment, not equality!"
-draft: false
+draft: true
 tags: [equality]
 categories: [Inequality]
 source: https://blacksocialists.us/

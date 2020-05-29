@@ -1,6 +1,6 @@
 ---
 title: "I don't see color. By seeing racism in all things, you're perpetuating it. If race is a construct why should we even acknowledge racism?"
-draft: false
+draft: true
 tags: [racist, racism, race, see color]
 categories: [Racism]
 source: https://blacksocialists.us/

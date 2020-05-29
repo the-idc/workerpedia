@@ -1,6 +1,6 @@
 ---
 title: "There is scientific evidence that backs the fact that black people are just less intelligent than other races; that's just how it is."
-draft: false
+draft: true
 tags: [less intelligent]
 categories: [Racism]
 source: https://blacksocialists.us/

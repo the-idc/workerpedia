@@ -1,6 +1,6 @@
 ---
 title: "When you say you care about the working class, you just mean the white working class."
-draft: false
+draft: true
 tags: [working class, working-class]
 categories: [Racism]
 source: https://blacksocialists.us/

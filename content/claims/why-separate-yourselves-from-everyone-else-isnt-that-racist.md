@@ -1,6 +1,6 @@
 ---
 title: "Why separate yourselves from everyone else? Isn't that racist?"
-draft: false
+draft: true
 tags: [reverse racism, racist, separate]
 categories: [Racism]
 source: https://blacksocialists.us/

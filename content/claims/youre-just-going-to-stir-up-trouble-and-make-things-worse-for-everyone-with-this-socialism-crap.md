@@ -1,6 +1,6 @@
 ---
 title: "You're just going to stir up trouble and make things worse for everyone with this Socialism crap."
-draft: false
+draft: true
 tags: [trouble, things worse]
 categories: [Pessimism]
 source: https://blacksocialists.us/

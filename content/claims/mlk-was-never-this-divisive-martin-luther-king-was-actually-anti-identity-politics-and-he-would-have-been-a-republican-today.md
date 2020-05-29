@@ -1,6 +1,6 @@
 ---
 title: "MLK was never this divisive. Martin Luther King was actually anti-identity politics, and he would have been a Republican today."
-draft: false
+draft: true
 tags: [martin, mlk]
 categories: [Racism]
 source: https://blacksocialists.us/

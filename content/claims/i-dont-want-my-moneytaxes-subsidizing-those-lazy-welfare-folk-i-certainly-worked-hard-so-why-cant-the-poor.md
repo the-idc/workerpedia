@@ -1,6 +1,6 @@
 ---
 title: "I don't want my money/taxes subsidizing those lazy welfare folk. I certainly worked hard, so why can't the poor?"
-draft: false
+draft: true
 tags: [welfare, my money, poor]
 categories: [Selfishness]
 source: https://blacksocialists.us/

@@ -1,6 +1,6 @@
 ---
 title: "I agree with what you're saying, just not with how you're saying it."
-draft: false
+draft: true
 tags: [tone, with how, methods, practice]
 categories: [Political Correctness]
 source: https://blacksocialists.us/

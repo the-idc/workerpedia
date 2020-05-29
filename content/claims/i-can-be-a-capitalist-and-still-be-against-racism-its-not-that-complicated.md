@@ -1,6 +1,6 @@
 ---
 title: "I can be a Capitalist and still be against racism; it's not that complicated."
-draft: false
+draft: true
 tags: [capitalist, capitalism]
 categories: [Racism]
 source: https://blacksocialists.us/

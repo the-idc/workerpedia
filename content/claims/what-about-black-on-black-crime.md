@@ -1,6 +1,6 @@
 ---
 title: "What about Black on Black crime?"
-draft: false
+draft: true
 tags: [black on, black-on-black]
 categories: [Racism]
 source: https://blacksocialists.us/

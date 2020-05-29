@@ -1,6 +1,6 @@
 ---
 title: "I never did anything to anyone. I'm not responsible for what my ancestors did. I shouldn't have to pay for America's racist history. You shouldn't have to pay for the crimes of ancestors you never met."
-draft: false
+draft: true
 tags: [past, history, ancestors]
 categories: [Racism]
 source: https://blacksocialists.us/

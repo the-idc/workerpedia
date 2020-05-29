@@ -1,6 +1,6 @@
 ---
 title: "It's just reasonable to be afraid of <<minority>> given the statistics. It's nothing personal; these are just the facts."
-draft: false
+draft: true
 tags: [afraid, statistics, genetic]
 categories: [Racism]
 source: https://blacksocialists.us/

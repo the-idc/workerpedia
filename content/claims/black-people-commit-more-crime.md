@@ -1,6 +1,6 @@
 ---
 title: "Black people commit more crime."
-draft: false
+draft: true
 tags: [black people, commit, crime, more]
 categories: [Racism]
 source: https://blacksocialists.us/

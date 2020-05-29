@@ -1,6 +1,6 @@
 ---
 title: "I'm just sayin': Africans belong in Africa."
-draft: false
+draft: true
 tags: [Africa]
 categories: [Racism]
 source: https://blacksocialists.us/

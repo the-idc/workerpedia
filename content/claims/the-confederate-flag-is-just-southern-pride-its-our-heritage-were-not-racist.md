@@ -1,6 +1,6 @@
 ---
 title: "The Confederate flag is just Southern pride; it's our heritage. We're not racist."
-draft: false
+draft: true
 tags: [confederate, flag]
 categories: [Racism]
 source: https://blacksocialists.us/

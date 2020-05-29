@@ -1,6 +1,6 @@
 ---
 title: "Racism isn't prominent; the Liberal media just blows it up so it seems that way to push their anti-cop agenda."
-draft: false
+draft: true
 tags: [racism, liberal, media]
 categories: [Political Correctness]
 source: https://blacksocialists.us/

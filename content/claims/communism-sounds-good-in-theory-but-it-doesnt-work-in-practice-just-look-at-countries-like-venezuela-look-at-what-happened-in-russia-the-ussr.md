@@ -1,6 +1,6 @@
 ---
 title: "Communism sounds good in theory, but it doesn't work in practice. Just look at countries like Venezuela. Look at what happened in Russia (the USSR)."
-draft: false
+draft: true
 tags: [communism, communist, socialism, socialist]
 categories: [Pessimism]
 source: https://blacksocialists.us/

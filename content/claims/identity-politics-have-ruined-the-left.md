@@ -1,6 +1,6 @@
 ---
 title: "Identity politics have ruined the Left."
-draft: false
+draft: true
 tags: [identity politics]
 categories: [Liberalism]
 source: https://blacksocialists.us/

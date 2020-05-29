@@ -1,6 +1,6 @@
 ---
 title: "Leftism is just for comfortable white BernieBros who want a political club. Focusing on class automatically ignores race and gender."
-draft: false
+draft: true
 tags: [bros, berniebros, leftism, class]
 categories: [Class]
 source: https://blacksocialists.us/

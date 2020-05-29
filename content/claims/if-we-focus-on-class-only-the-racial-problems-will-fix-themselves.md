@@ -1,6 +1,6 @@
 ---
 title: "If we focus on class only, the racial problems will fix themselves."
-draft: false
+draft: true
 tags: [class]
 categories: [Class]
 source: https://blacksocialists.us/

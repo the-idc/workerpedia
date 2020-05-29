@@ -1,6 +1,6 @@
 ---
 title: "On police brutality: \"These are just isolated incidents. Why don't they report on good cops?\""
-draft: false
+draft: true
 tags: [bad apples, cops, police]
 categories: [Policing]
 source: https://blacksocialists.us/

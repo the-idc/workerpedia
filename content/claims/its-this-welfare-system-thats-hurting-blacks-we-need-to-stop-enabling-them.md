@@ -1,6 +1,6 @@
 ---
 title: "It's this welfare system that's hurting Blacks. We need to stop enabling them."
-draft: false
+draft: true
 tags: [welfare, enabling, handouts]
 categories: [Racism]
 source: https://blacksocialists.us/

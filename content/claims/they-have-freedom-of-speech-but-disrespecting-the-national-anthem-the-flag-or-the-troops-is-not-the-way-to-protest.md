@@ -1,6 +1,6 @@
 ---
 title: "They have freedom of speech, but disrespecting the national anthem, the flag, or the troops is not the way to protest."
-draft: false
+draft: true
 tags: [freedom of speech, anthem, flag, troops, protest, kaepernick]
 categories: [Protest]
 source: https://blacksocialists.us/

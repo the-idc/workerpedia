@@ -1,6 +1,6 @@
 ---
 title: "What about Chicago?"
-draft: false
+draft: true
 tags: [chicago]
 categories: [Racism]
 source: https://blacksocialists.us/

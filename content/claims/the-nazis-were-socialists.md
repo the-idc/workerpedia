@@ -1,6 +1,6 @@
 ---
 title: "The Nazis were Socialists."
-draft: false
+draft: true
 tags: [nazi, nazis]
 categories: [Fascism]
 source: https://blacksocialists.us/

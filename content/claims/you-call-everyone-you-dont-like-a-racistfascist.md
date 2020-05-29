@@ -1,6 +1,6 @@
 ---
 title: "You call everyone you don't like a racist/fascist."
-draft: false
+draft: true
 tags: [racist, racism, fascist, fascism]
 categories: [Racism]
 source: https://blacksocialists.us/

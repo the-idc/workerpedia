@@ -1,6 +1,6 @@
 ---
 title: "Africans sold other Africans into slavery."
-draft: false
+draft: true
 tags: [Africans]
 categories: [Racism]
 source: https://blacksocialists.us/

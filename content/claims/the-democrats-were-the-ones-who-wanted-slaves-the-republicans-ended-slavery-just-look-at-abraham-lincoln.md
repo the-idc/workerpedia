@@ -1,6 +1,6 @@
 ---
 title: "The Democrats were the ones who wanted slaves. The Republicans ended slavery, just look at Abraham Lincoln!"
-draft: false
+draft: true
 tags: [lincoln, democrats, republicans]
 categories: [Racism]
 source: https://blacksocialists.us/

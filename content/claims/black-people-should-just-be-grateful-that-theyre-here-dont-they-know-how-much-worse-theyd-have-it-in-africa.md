@@ -1,6 +1,6 @@
 ---
 title: "Black people should just be grateful that they're here. Don't they know how much worse they'd have it in Africa?"
-draft: false
+draft: true
 tags: [Africa, thankful, grateful, slaves]
 categories: [Racism]
 source: https://blacksocialists.us/

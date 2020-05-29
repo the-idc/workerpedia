@@ -1,6 +1,6 @@
 ---
 title: "Now is not the time to focus on identity politics! It drives us apart when we need to be united against Trump."
-draft: false
+draft: true
 tags: [identity politics, trump]
 categories: [Liberalism]
 source: https://blacksocialists.us/

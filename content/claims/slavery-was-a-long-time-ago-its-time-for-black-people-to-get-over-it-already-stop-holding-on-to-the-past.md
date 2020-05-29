@@ -1,6 +1,6 @@
 ---
 title: "Slavery was a long time ago; it's time for Black people to get over it already. Stop holding on to the past."
-draft: false
+draft: true
 tags: [slavery, time ago, the past]
 categories: [Racism]
 source: https://blacksocialists.us/

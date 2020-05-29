@@ -1,6 +1,6 @@
 ---
 title: "White people have done good and bad things; focus on the good."
-draft: false
+draft: true
 tags: [good and bad, focus on]
 categories: [Liberalism]
 source: https://blacksocialists.us/

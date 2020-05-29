@@ -1,6 +1,6 @@
 ---
 title: "More white people get killed by the police than Black people!"
-draft: false
+draft: true
 tags: [white, police, killed]
 categories: [Racism]
 source: https://blacksocialists.us/

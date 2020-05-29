@@ -1,6 +1,6 @@
 ---
 title: "Stop making excuses and get over the past."
-draft: false
+draft: true
 tags: [past, history]
 categories: [Pessimism]
 source: https://blacksocialists.us/

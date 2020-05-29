@@ -1,6 +1,6 @@
 ---
 title: "I have plenty of black friends; I don't have a racist bone in my body."
-draft: false
+draft: true
 tags: [black friend, friends]
 categories: [Racism]
 source: https://blacksocialists.us/

@@ -1,6 +1,6 @@
 ---
 title: "Welfare programs destroyed the Black family unit."
-draft: false
+draft: true
 tags: [welfare, black family]
 categories: [Racism]
 source: https://blacksocialists.us/

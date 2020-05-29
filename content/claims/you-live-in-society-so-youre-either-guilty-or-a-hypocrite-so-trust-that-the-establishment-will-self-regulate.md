@@ -1,6 +1,6 @@
 ---
 title: "You live in society so you're either guilty or a hypocrite, so trust that the establishment will self-regulate."
-draft: false
+draft: true
 tags: [society, hypocrite]
 categories: [Capitalism]
 source: https://blacksocialists.us/

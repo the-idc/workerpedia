@@ -1,6 +1,6 @@
 ---
 title: "Why don't Black people just not commit crimes and be polite and follow orders when dealing with cops? Always seems to work for me."
-draft: false
+draft: true
 tags: [follow orders, obey, polite, cops, police, dealing with]
 categories: [Racism]
 source: https://blacksocialists.us/

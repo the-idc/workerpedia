@@ -1,6 +1,6 @@
 ---
 title: "The majority of Black people don't care about race; it's just a small minority of opportunists claiming to speak for everyone."
-draft: false
+draft: true
 tags: [care about race]
 categories: [Racism]
 source: https://blacksocialists.us/

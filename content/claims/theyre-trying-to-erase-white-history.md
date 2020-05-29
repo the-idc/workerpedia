@@ -1,6 +1,6 @@
 ---
 title: "They're trying to erase white history!"
-draft: false
+draft: true
 tags: [erase, white, history]
 categories: [Racism]
 source: https://blacksocialists.us/

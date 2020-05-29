@@ -1,6 +1,6 @@
 ---
 title: "We need to focus on class instead of race."
-draft: false
+draft: true
 tags: [class]
 categories: [Racism]
 source: https://blacksocialists.us/

@@ -1,6 +1,6 @@
 ---
 title: "Black people can be racist too; it's not just white people."
-draft: false
+draft: true
 tags: [reverse racism, black racism, black racist, racist, structural racism, institutional racism]
 categories: [Racism]
 source: https://blacksocialists.us/

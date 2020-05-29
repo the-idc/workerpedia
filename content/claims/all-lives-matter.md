@@ -1,6 +1,6 @@
 ---
 title: "All lives matter."
-draft: false
+draft: true
 tags: [all lives matter, lives matter]
 categories: [Racism]
 source: https://blacksocialists.us/

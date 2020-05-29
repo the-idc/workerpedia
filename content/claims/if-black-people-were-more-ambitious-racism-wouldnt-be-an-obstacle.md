@@ -1,6 +1,6 @@
 ---
 title: "If Black people were more ambitious, racism wouldn't be an obstacle."
-draft: false
+draft: true
 tags: [ambitious, get over]
 categories: [Racism]
 source: https://blacksocialists.us/

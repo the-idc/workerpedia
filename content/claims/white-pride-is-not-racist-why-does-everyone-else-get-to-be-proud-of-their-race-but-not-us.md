@@ -1,6 +1,6 @@
 ---
 title: "White pride is NOT racist! Why does everyone else get to be proud of their race, but not us?"
-draft: false
+draft: true
 tags: [white pride]
 categories: [Racism]
 source: https://blacksocialists.us/

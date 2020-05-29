@@ -1,6 +1,6 @@
 ---
 title: "Identity politics make everything about race. This is really about class."
-draft: false
+draft: true
 tags: [class, identity]
 categories: [Liberalism]
 source: https://blacksocialists.us/

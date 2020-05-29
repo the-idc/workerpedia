@@ -1,6 +1,6 @@
 ---
 title: "Why don't we talk about Black fatherlessness and what that does, or gun violence in Black communities?"
-draft: false
+draft: true
 tags: [parents, fathers]
 categories: [Racism]
 source: https://blacksocialists.us/

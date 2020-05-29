@@ -1,6 +1,6 @@
 ---
 title: "Russian influence over our elections is a bigger concern/threat than American racial grievances."
-draft: false
+draft: true
 tags: [russia, russian]
 categories: [Pessimism]
 source: https://blacksocialists.us/

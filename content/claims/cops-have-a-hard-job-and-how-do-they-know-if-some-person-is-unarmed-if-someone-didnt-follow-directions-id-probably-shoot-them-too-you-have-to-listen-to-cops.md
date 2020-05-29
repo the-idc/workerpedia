@@ -1,6 +1,6 @@
 ---
 title: "Cops have a hard job, and how do they know if some person is unarmed? If someone didn't follow directions, I'd probably shoot them too. You have to listen to cops."
-draft: false
+draft: true
 tags: [cops, police, follow directions]
 categories: [Policing]
 source: https://blacksocialists.us/

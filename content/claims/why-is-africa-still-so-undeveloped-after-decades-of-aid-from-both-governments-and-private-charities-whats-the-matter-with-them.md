@@ -1,6 +1,6 @@
 ---
 title: "Why is Africa still so undeveloped after decades of aid from both governments and private charities? What's the matter with them?"
-draft: false
+draft: true
 tags: [Africa, aid, charity, charities]
 categories: [Racism]
 source: https://blacksocialists.us/

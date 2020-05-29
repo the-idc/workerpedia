@@ -1,6 +1,6 @@
 ---
 title: "Does it actually really affect you though? Why care so much if it doesn't affect you?"
-draft: false
+draft: true
 tags: [affect me, effect me, affect you, effect you]
 categories: [Selfishness]
 source: https://blacksocialists.us/

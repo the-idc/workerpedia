@@ -1,6 +1,6 @@
 ---
 title: "Politics is all about compromise; we need to be able to meet the other side halfway."
-draft: false
+draft: true
 tags: [compromise, aisle, work with]
 categories: [Liberalism]
 source: https://blacksocialists.us/

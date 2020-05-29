@@ -1,6 +1,6 @@
 ---
 title: "True equality is impossible"
-draft: false
+draft: true
 tags: [equality, impossible]
 categories: [Pessimism]
 source: https://blacksocialists.us/

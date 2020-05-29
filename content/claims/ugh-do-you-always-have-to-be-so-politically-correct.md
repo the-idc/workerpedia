@@ -1,6 +1,6 @@
 ---
 title: "Ugh, do you always have to be so politically correct?"
-draft: false
+draft: true
 tags: [pc, politically correct, correctness]
 categories: [Political Correctness]
 source: https://blacksocialists.us/

@@ -1,6 +1,6 @@
 ---
 title: "Well, I've never benefited from being white, I can tell ya that much."
-draft: false
+draft: true
 tags: [being white]
 categories: [Racism]
 source: https://blacksocialists.us/

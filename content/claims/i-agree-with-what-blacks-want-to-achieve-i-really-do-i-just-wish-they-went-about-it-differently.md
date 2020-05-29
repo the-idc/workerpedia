@@ -1,6 +1,6 @@
 ---
 title: "I agree with what Blacks want to achieve, I really do! I just wish they went about it differently."
-draft: false
+draft: true
 tags: [wish, means, way, different]
 categories: [Racism]
 source: https://blacksocialists.us/

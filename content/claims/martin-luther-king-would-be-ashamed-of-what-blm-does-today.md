@@ -1,6 +1,6 @@
 ---
 title: "Martin Luther King would be ashamed of what BLM does today."
-draft: false
+draft: true
 tags: [martin, mlk]
 categories: [Racism]
 source: https://blacksocialists.us/

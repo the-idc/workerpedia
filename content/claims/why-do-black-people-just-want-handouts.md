@@ -1,6 +1,6 @@
 ---
 title: "Why do Black people just want handouts?"
-draft: false
+draft: true
 tags: [handouts, welfare]
 categories: [Racism]
 source: https://blacksocialists.us/

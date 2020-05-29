@@ -1,6 +1,6 @@
 ---
 title: "At what level does it become about personal responsibility?"
-draft: false
+draft: true
 tags: [responsibility]
 categories: [Selfishness]
 source: https://blacksocialists.us/

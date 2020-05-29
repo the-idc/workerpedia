@@ -1,6 +1,6 @@
 ---
 title: "Those refugees should fight for their own countries rather than flee and come here. They're cowards and just want job opportunities."
-draft: false
+draft: true
 tags: [immigrants, refugees]
 categories: [Immigration]
 source: https://blacksocialists.us/

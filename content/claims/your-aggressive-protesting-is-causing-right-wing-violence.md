@@ -1,6 +1,6 @@
 ---
 title: "Your aggressive protesting is causing right-wing violence."
-draft: false
+draft: true
 tags: [protest, protesting, protesters, causing]
 categories: [Protest]
 source: https://blacksocialists.us/

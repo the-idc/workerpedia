@@ -1,6 +1,6 @@
 ---
 title: "My [insert POC] friend's family is doing better than me, so how can racism exist?"
-draft: false
+draft: true
 tags: [racism]
 categories: [Racism]
 source: https://blacksocialists.us/

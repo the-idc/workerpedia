@@ -1,6 +1,6 @@
 ---
 title: "What happened to free speech? I can't say anything anymore without someone taking offense. PC culture is out of control!"
-draft: false
+draft: true
 tags: [snowflake, free speech, pc, politically correct]
 categories: [Political Correctness]
 source: https://blacksocialists.us/

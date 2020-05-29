@@ -1,6 +1,6 @@
 ---
 title: "Men can't really be feminists."
-draft: false
+draft: true
 tags: [feminists, feminism]
 categories: [Other]
 source: https://blacksocialists.us/

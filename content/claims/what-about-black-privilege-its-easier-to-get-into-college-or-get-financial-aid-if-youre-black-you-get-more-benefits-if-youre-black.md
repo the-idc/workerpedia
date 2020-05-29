@@ -1,6 +1,6 @@
 ---
 title: "What about Black privilege? It's easier to get into college or get financial aid if you're Black. You get more benefits if you're Black."
-draft: false
+draft: true
 tags: [black privelege, college, benefits]
 categories: [Racism]
 source: https://blacksocialists.us/
