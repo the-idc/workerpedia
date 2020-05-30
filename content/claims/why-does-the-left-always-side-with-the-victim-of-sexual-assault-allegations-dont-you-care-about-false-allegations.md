@@ -8,7 +8,6 @@ tags:
   - Canada
 categories:
   - Law & Crime
-  - Crime
   - Feminism
 source: joinidc.co
 ---
