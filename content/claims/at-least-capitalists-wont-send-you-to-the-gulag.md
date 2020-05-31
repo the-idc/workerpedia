@@ -9,7 +9,7 @@ categories:
   - Capitalism
 source: https://joinidc.co
 ---
-Ignoring the problematic media portrayal of gulags, \[capitalist countries had mastered concentration camps long before soviet gulags](https://jacobinmag.com/2017/05/uk-concentration-camps-wwii-poland-internment-prisoners).
+Ignoring the problematic media portrayal of gulags, [capitalist countries had mastered concentration camps long before soviet gulags](https://jacobinmag.com/2017/05/uk-concentration-camps-wwii-poland-internment-prisoners).
 
 Over 20,000 children died of starvation and diseash in British concentration camps during the second Boer War (1899-1902) alone and thousands more suffered in compounds like the Lancaster Concentration Camp which saw Germain civilians be attacked with a bayonet charge to restore order.
 
