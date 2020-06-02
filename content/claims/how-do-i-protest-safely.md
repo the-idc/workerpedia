@@ -9,19 +9,20 @@ source: joinidc.co
 ---
 Contents:
 
-* ACTIVE: UPRISING 2020
+* [ACTIVE: UPRISING 2020](#-ACTIVE:-UPRISING-2020)
 
-  * GET INVOLVED
-  * MAJOR EVENTS
-  * MEDIA SOURCES
-* PROTEST GUIDES
+  * [GET INVOLVED](##-GET-INVOLVED)
+  * [MAJOR EVENTS](##-MAJOR-EVENTS)
+  * [MEDIA SOURCES](##-MEDIA-SOURCES)
+* [PROTEST GUIDES](#-PROTEST-GUIDES)
 
-  * GENERAL
-  * MEDICAL
-  * TACTICS
-  * REGIONAL
+  * [GENERAL](##-GENERAL)
+  * [MEDICAL](##-MEDICAL)
+  * [TACTICS](##-TACTICS)
+  * [REGIONAL](##-REGIONAL-SPECIFIC)
 * ADDRESSING ROOT CAUSE
 
+***
 # ACTIVE: UPRISING 2020
 
 ## Get Involved
@@ -33,9 +34,17 @@ Bail Funds:
 
 Legal Support:
 
-1. [The Movement Defence Committee](https://movementdefence.org/): an autonomous working group of the Law Union of Ontario made up of legal workers, law students, activists, and lawyers which provides legal support to progressive organizations and activists in Toronto.
+1. [The Movement Defence Committee (ON, CAN)](https://movementdefence.org/): an autonomous working group of the Law Union of Ontario made up of legal workers, law students, activists, and lawyers which provides legal support to progressive organizations and activists in Toronto.
 
+## MAJOR EVENTS
 
+IN DEVELOPMENT
+
+## MEDIA SOURCES
+
+* [UNICORN RIOT](https://unicornriot.ninja)
+
+***
 
 # PROTEST GUIDES
 
@@ -43,8 +52,7 @@ Legal Support:
 
 [26 Ways to Be in the Struggle Beyond the Streets](https://issuu.com/nlc.sf.2014/docs/beyondthestreets_final): For comrades who want to contribute to the cause, but are unable to physically attend protest action.
 
-[Anonymous - Survival Guide for Citizens in a Revolution](https://b-ok.cc/book/5395634/a85c69): This guide will give you some basic ideas and tips for how you and your friends/neighbors/family can stay safe in the violent turmoil around you. It is not a ready-made recipe, but it contains general
-survival tactics and strategies.
+[Anonymous - Survival Guide for Citizens in a Revolution](https://b-ok.cc/book/5395634/a85c69): This guide will give you some basic ideas and tips for how you and your friends/neighbors/family can stay safe in the violent turmoil around you. It is not a ready-made recipe, but it contains general survival tactics and strategies.
 
 [Do Not Show Up to Protests if You Don't Know Who the Organizers Are](https://twitter.com/SarahJama_/status/1266867302139658241): A Twitter thread illustrating why you shouldn't support protests with unclear leadership and what to do if you encounter one.
 
@@ -54,4 +62,12 @@ survival tactics and strategies.
 
 ## TACTICS
 
-## REGIONAL
+IN DEVELOPMENT
+
+## REGIONAL SPECIFIC
+
+IN DEVELOPMENT
+
+## ADDRESSING ROOT CAUSE
+
+IN DEVELOPMENT
