@@ -9,18 +9,18 @@ source: joinidc.co
 ---
 Contents:
 
-* [ACTIVE: UPRISING 2020](#ACTIVE:-UPRISING-2020)
+* [ACTIVE: UPRISING 2020](#active:-uprising-2020)
 
-  * [GET INVOLVED](#GET-INVOLVED)
-  * [MAJOR EVENTS](#MAJOR-EVENTS)
-  * [MEDIA SOURCES](#MEDIA-SOURCES)
-* [PROTEST GUIDES](#PROTEST-GUIDES)
+  * [GET INVOLVED](#get-involved)
+  * [MAJOR EVENTS](#major-events)
+  * [MEDIA SOURCES](#media-sources)
+* [PROTEST GUIDES](#protest-guides)
 
-  * [GENERAL](#GENERAL)
-  * [MEDICAL](#MEDICAL)
-  * [TACTICS](#TACTICS)
-  * [REGIONAL](#REGIONAL-SPECIFIC)
-* [ADDRESSING ROOT CAUSE](#ADDRESSING-ROOT-CAUSE)
+  * [GENERAL](#general)
+  * [MEDICAL](#medical)
+  * [TACTICS](#tactics)
+  * [REGIONAL SPECIFIC](#regional-specific)
+* [ADDRESSING ROOT CAUSE](#addressing-root-cause)
 
 ***
 # ACTIVE: UPRISING 2020
