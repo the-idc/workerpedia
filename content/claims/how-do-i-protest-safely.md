@@ -30,11 +30,15 @@ Contents:
 Bail Funds:
 
 1. [https://bailfunds.github.io](https://bailfunds.github.io/): This list is intended to be comprehensive. We worked with National Bail Fund Network to ensure the validity of these. If there is something missing, please email info@communityjusticeexchange.org or make a pull request on the github repository.
-2. [https://linktr.ee/transnormativity](<1. https://linktr.ee/transnormativity>)
+2. [43 Bail Funds You Can Absolutely Support Right Now](https://www.autostraddle.com/43-bail-funds-you-can-absolutely-support-right-now)
+2. [https://linktr.ee/transnormativity](https://linktr.ee/transnormativity>)
 
 Legal Support:
 
-1. [The Movement Defence Committee (ON, CAN)](https://movementdefence.org/): an autonomous working group of the Law Union of Ontario made up of legal workers, law students, activists, and lawyers which provides legal support to progressive organizations and activists in Toronto.
+* [The Movement Defence Committee (ON, CAN)](https://movementdefence.org/): an autonomous working group of the Law Union of Ontario made up of legal workers, law students, activists, and lawyers which provides legal support to progressive organizations and activists in Toronto.
+* [The Black Legal Action Centre (ON, CAN)](https://www.blacklegalactioncentre.ca/): a new not-for-profit corporation, BLAC delivers legal aid services to low and no income Black Ontarians.
+* [Atlanta Solidarity Fund (ATL, USA)](https://atlsolidarity.org): When activists face repression, we stand with them. We provide support for people who are arrested at protests, or otherwise prosecuted for their movement involvement.
+* [Minnesota Freedom Fund (MIN, USA)](https://minnesotafreedomfund.org/): The Minnesota Freedom Fund pays criminal bail and immigration bond for those who cannot afford to as we seek to end discriminatory, coercive, and oppressive jailing.
 
 ## MAJOR EVENTS
 
