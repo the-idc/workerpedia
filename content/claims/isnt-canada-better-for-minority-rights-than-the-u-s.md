@@ -1,6 +1,6 @@
 ---
 title: Isn't Canada Better for Minority Rights than the U.S.?
-date: 2020-06-14T01:27:48.694Z
+date: 2020-06-14T21:21:34.070Z
 tags:
   - racism
 categories:
