@@ -3,9 +3,13 @@ title: Protests that block traffic on public streets or disrupt economic
   channels like railroads make the general public angry and hurt the cause.
 date: 2020-06-21T18:44:06.116Z
 tags:
-  - Law & Crime
+  - protest
+  - protesting
+  - riot
+  - civil disobedience
 categories:
   - Law & Crime
+  - Inequality
 source: joinidc.co
 ---
 **TL;DR**
